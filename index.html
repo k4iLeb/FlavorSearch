@@ -1,25 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
     <title>Flavor Search</title>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <h1>Flavor Search</h1>
-        <div class="search-div">
-            <input type="text" class="input">
-            <button class="btn">Search</button>
+      <h1>Flavor Search</h1>
+      <div class="search-div">
+        <input type="text" class="input" />
+        <button class="btn">Search</button>
+      </div>
+      <div class="prioContainer">
+        <div class="prioDiv">
+          <div class="prioDivSymbol" id="prio1"></div>
+          No1 Priority
         </div>
-        <div class="results">
-            <ul class="list"></ul>
+        <div class="prioDiv">
+          <div class="prioDivSymbol" id="prio2"></div>
+          No2 Priority
         </div>
+        <div class="prioDiv">
+          <div class="prioDivSymbol" id="prio3"></div>
+          Low Priority
+        </div>
+      </div>
+      <div class="results">
+        <ul class="list"></ul>
+      </div>
     </div>
     <script src="./script.js"></script>
-</body>
+  </body>
 </html>
