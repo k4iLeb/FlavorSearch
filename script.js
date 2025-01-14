@@ -71,9 +71,8 @@ function checkPrio() {
     listItem.forEach((item)=> {
         if(item.innerText.includes('OMERTA')) {
             item.style.backgroundColor = "rgba(138, 195, 104, 0.6)"
-            console.log('hi');
-            
         }
+        item.style.backgroundColor = "rgb(212 217 219 / 80%)"
     })
     // console.log(listItem);
     
