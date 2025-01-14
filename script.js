@@ -56,20 +56,42 @@ function search() {
 
 function displayResults(results) {
   list.innerHTML = "";
-  for (let item of results) {
+  results.forEach((item) => {
     let listItem = document.createElement("li");
-    listItem.textContent = `${item.Name.trim()}: ${item.Description}`;
+    listItem.innerHTML = `<span>${item.Name.trim()}</span>: ${
+      item.Description
+    }`;
+
     list.appendChild(listItem);
-  }
+  });
+  const itemName = document.querySelectorAll(".results span");
+  itemName.forEach((item) => {
+    item.classList.add("item-name");
+  });
   checkPrio();
 }
 
 // **** check prio ****
 function checkPrio() {
   let listItem = document.querySelectorAll("li");
-  // **** WIP ****
   const highPrio = ["SWEET DREAMS", "CARAVELLA", "5SENSES"];
-  const midPrio = ["OMERTA", "THE DONS", "LA FAMIGLIA"];
+  const midPrio = [
+    "OMERTA",
+    "THE DONS",
+    "LA FAMIGLIA",
+    "SWEETUP",
+    "CARAT",
+    "GUSTO",
+    "BISHA",
+    "LEGACY",
+    "WAVES",
+    "NECTAR",
+    "ABSTRACT",
+    "SHELBY",
+    "SONS OF VAPING",
+    "VENDETTA",
+    "OPMH",
+  ];
   listItem.forEach((item) => {
     highPrio.forEach((flavor) => {
       if (item.innerText.includes(flavor)) {
@@ -83,27 +105,5 @@ function checkPrio() {
     });
   });
 }
-
-// **** TEST ****
-
-// results = [
-//   {
-//     Name: "CARAVELLA APPLE PIE TOBACCO",
-//     Description: "ΑΜΕΡΙΚΑΝΙΚΟΣ ΚΑΠΝΟΣ, ΜΗΛΟΠΙΤΑ",
-//     Category: "ΗΜΙΚΑΠΝΙΚΟ",
-//   },
-//   {
-//     Name: "RIPE VAPES APPLE TOBACCO",
-//     Description: "ΜΗΛΟ , ΚΑΠΝΟΣ",
-//     Category: "ΗΜΙΚΑΠΝΙΚΟ",
-//   },
-//   {
-//     Name: "OMERTA TERRA SAPPHIRE ",
-//     Description: "ΚΛΑΣΙΚΟΣ ΚΑΠΝΟΣ , ΠΑΡΑΔΟΣΙΑΚΟ ΤΣΙΓΑΡΟ",
-//     Category: "ΚΑΠΝΙΚΟ",
-//   },
-// ];
-
-// displayResults(results);
 
 window.onload = loadData;
