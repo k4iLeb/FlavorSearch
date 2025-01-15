@@ -20,11 +20,6 @@ const searchBtn = document.querySelector(".btn");
 const container = document.querySelector(".container");
 const resultsDiv = document.querySelector(".results");
 const list = document.querySelector(".list");
-const favicon = document.querySelector("#favicon")
-
-// **** CHANGE FAVICON COLOR ****
-console.log(favicon.style.fill);
-
 
 // **** LISTENERS ****
 
@@ -96,6 +91,7 @@ function checkPrio() {
     "SONS OF VAPING",
     "VENDETTA",
     "OPMH",
+    "NIXX"
   ];
   listItem.forEach((item) => {
     highPrio.forEach((flavor) => {

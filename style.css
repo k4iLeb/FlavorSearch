@@ -130,6 +130,7 @@ li {
   border-radius: 10px;
   background-color: rgb(212 217 219 / 80%);
   line-height: 150%;
+  width: 760px;
 }
 
 .item-name {
