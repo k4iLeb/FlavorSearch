@@ -20,6 +20,11 @@ const searchBtn = document.querySelector(".btn");
 const container = document.querySelector(".container");
 const resultsDiv = document.querySelector(".results");
 const list = document.querySelector(".list");
+const favicon = document.querySelector("#favicon")
+
+// **** CHANGE FAVICON COLOR ****
+console.log(favicon.style.fill);
+
 
 // **** LISTENERS ****
 

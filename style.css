@@ -11,6 +11,26 @@ html {
   align-items: center;
 }
 
+.icon {
+  fill: red;
+}
+
+.titleDiv {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 100,
+  'wght' 600,
+  'GRAD' 0,
+  'opsz' 24;
+
+  font-size: 1.8rem !important
+}
+
 h1 {
   font-family: Orbitron, sans-serif;
   letter-spacing: 12px;
@@ -74,6 +94,7 @@ h1 {
 
 .prioDiv {
   display: flex;
+  align-items: center;
   gap: 10px;
 }
 
