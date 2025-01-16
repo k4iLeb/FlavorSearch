@@ -133,6 +133,7 @@ li {
   background-color: rgb(212 217 219 / 80%);
   width: 100%;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
@@ -143,8 +144,8 @@ li:hover {
 
 .flaDiv {
 display: flex;
-flex-direction: column;
-flex-wrap: wrap;
+flex-direction: row;
+flex-wrap: nowrap;
 align-items: center;
 }
 
@@ -157,7 +158,6 @@ align-items: center;
 .flaDesc {
   font-size: 0.9rem;
   text-align: center;
-  align-self: center;
 }
 
 .flaCategory {
@@ -166,6 +166,5 @@ align-items: center;
   margin-left: 10px;
   border-radius: 5px;
   font-size: 0.8rem;
-  height: 100%;
   text-align: center;
 }

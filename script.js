@@ -59,9 +59,11 @@ function displayResults(results) {
   results.forEach((item) => {
     let listItem = document.createElement("li");
     listItem.innerHTML = 
-    `<div class="flaDiv"><span class="flaName">${item.Name.trim()}</span> 
-    <span class="flaDesc">${item.Description}</span></div> 
-    <span class="flaCategory">${item.Category}</span>`;
+    `<div class="flaDiv">
+      <span class="flaName">${item.Name.trim()}</span>
+      <span class="flaCategory">${item.Category}</span>
+    </div> 
+    <span class="flaDesc">${item.Description}</span>`;
 
     list.appendChild(listItem);
   });
