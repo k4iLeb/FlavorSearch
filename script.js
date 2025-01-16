@@ -58,16 +58,17 @@ function displayResults(results) {
   list.innerHTML = "";
   results.forEach((item) => {
     let listItem = document.createElement("li");
-    listItem.innerHTML = `<span>${item.Name.trim()}</span>: ${
-      item.Description
-    }`;
+    listItem.innerHTML = 
+    `<div class="flaDiv"><span class="flaName">${item.Name.trim()}</span> 
+    <span class="flaDesc">${item.Description}</span></div> 
+    <span class="flaCategory">${item.Category}</span>`;
 
     list.appendChild(listItem);
   });
-  const itemName = document.querySelectorAll(".results span");
-  itemName.forEach((item) => {
-    item.classList.add("item-name");
-  });
+  // const itemName = document.querySelectorAll(".results span");
+  // itemName.forEach((item) => {
+  //   item.classList.add("item-name");
+  // });
   checkPrio();
 }
 
