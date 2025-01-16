@@ -65,10 +65,6 @@ function displayResults(results) {
 
     list.appendChild(listItem);
   });
-  // const itemName = document.querySelectorAll(".results span");
-  // itemName.forEach((item) => {
-  //   item.classList.add("item-name");
-  // });
   checkPrio();
 }
 
