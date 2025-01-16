@@ -51,7 +51,7 @@
  },
  {
    "Name": "SWEET DREAMS GLAZED DONUT",
-   "Description": "ΖΥΜΗ DONUT( ΝΤΟΝΑΤ ), ΚΡΕΜΑ ΒΑΥΑΡΙΑΣ, ΓΛΑΣΟ ΛΙΩΜΕΝΗΣ ΖΑΧΑΡΗΣ",
+   "Description": "ΖΥΜΗ DONUT (ΝΤΟΝΑΤ), ΚΡΕΜΑ ΒΑΥΑΡΙΑΣ, ΓΛΑΣΟ ΛΙΩΜΕΝΗΣ ΖΑΧΑΡΗΣ",
    "Category": "ΓΛΥΚΟ"
  },
  {
@@ -71,7 +71,7 @@
  },
  {
    "Name": "5SENSES AMERICAN STRAWBERRY PIE",
-   "Description": "ΠΙΤΑ( ΖΥΜΗ ), ΦΡΑΟΥΛΑ",
+   "Description": "ΠΙΤΑ (ΖΥΜΗ), ΦΡΑΟΥΛΑ",
    "Category": "ΓΛΥΚΟ"
  },
  {
@@ -201,7 +201,7 @@
  },
  {
    "Name": "GUSTO FRUITY BUBBLE GUM",
-   "Description": "ΦΡΟΥΤΕΝΙΑ ΓΕΥΣΗ( ΤΣΙΧΛΟΦΟΥΣΚΑ ), ΜΕ ΚΥΡΙΟ ΧΑΡΑΚΤΗΡΙΣΤΙΚΟ ΤΟ ΣΤΑΦΥΛΙ",
+   "Description": "ΦΡΟΥΤΕΝΙΑ ΓΕΥΣΗ (ΤΣΙΧΛΟΦΟΥΣΚΑ), ΜΕ ΚΥΡΙΟ ΧΑΡΑΚΤΗΡΙΣΤΙΚΟ ΤΟ ΣΤΑΦΥΛΙ",
    "Category": "ΦΡΟΥΤΟ"
  },
  {
@@ -646,7 +646,7 @@
  },
  {
    "Name": "PACHA MAMA PAPAYA COCONUT",
-   "Description": "ΚΡΕΜΑ ΚΑΡΥΔΑΣ, ΠΑΠΑΓΙΑ( PAPAYA ), ΡΟΔΑΚΙΝΟ",
+   "Description": "ΚΡΕΜΑ ΚΑΡΥΔΑΣ, ΠΑΠΑΓΙΑ (PAPAYA), ΡΟΔΑΚΙΝΟ",
    "Category": "ΦΡΟΥΤΟ"
  },
  {
@@ -956,7 +956,7 @@
  },
  {
    "Name": "STEAM TRAIN FLAVOR MAGNIFICENT",
-   "Description": "CUPCAKE( ΖΥΜΗ ), ΚΡΕΜΑ ΒΟΥΤΥΡΟΥ, SPRINKLES (ΤΡΟΥΦΑ)",
+   "Description": "CUPCAKE (ΖΥΜΗ), ΚΡΕΜΑ ΒΟΥΤΥΡΟΥ, SPRINKLES (ΤΡΟΥΦΑ)",
    "Category": "ΓΛΥΚΟ"
  },
  {
@@ -966,7 +966,7 @@
  },
  {
    "Name": "STEAM TRAIN FLAVOR OLD STATIONS BBW",
-   "Description": "ΒΑΦΛΑ ΜΕ ΜΥΡΤΙΛΛΟ( BLUEBERRY ), ΜΗΛO, ΚΑΝΕΛΑ, ΜΑΥΡΗ ΖΑΧΑΡΗ",
+   "Description": "ΒΑΦΛΑ ΜΕ ΜΥΡΤΙΛΛΟ (BLUEBERRY), ΜΗΛO, ΚΑΝΕΛΑ, ΜΑΥΡΗ ΖΑΧΑΡΗ",
    "Category": "ΓΛΥΚΟ"
  },
  {
@@ -1221,7 +1221,7 @@
  },
  {
    "Name": "TNT FLAVOR BALKAN SOBRANIE",
-   "Description": "ΚΑΠΝΟΣ LATAKIA, ΒΙΡΤΖΙΝΙΑ( VIRGINIA )",
+   "Description": "ΚΑΠΝΟΣ LATAKIA, ΒΙΡΤΖΙΝΙΑ (VIRGINIA)",
    "Category": "ΚΑΠΝΙΚΟ"
  },
  {
@@ -1386,7 +1386,7 @@
  },
  {
    "Name": "VAPONAUTE PARIS NIGHT FLIGHT",
-   "Description": "ΙΡΛΑΝΔΙΚΟΣ ΚΑΦΕΣ, ΝΟΤΕΣ ΚΡΕΜΑΣ, ΟΥΙΣΚΙ( WHISKEY ) ΚΑΙ ΜΠΙΣΚΟΤΟ ΑΜΥΓΔΑΛΟΥ",
+   "Description": "ΙΡΛΑΝΔΙΚΟΣ ΚΑΦΕΣ, ΝΟΤΕΣ ΚΡΕΜΑΣ, ΟΥΙΣΚΙ (WHISKEY) ΚΑΙ ΜΠΙΣΚΟΤΟ ΑΜΥΓΔΑΛΟΥ",
    "Category": "ΓΛΥΚΟ"
  },
  {
@@ -1411,7 +1411,7 @@
  },
  {
    "Name": "VNV CORYLUS",
-   "Description": "ΚΑΠΝΟΣ ΠΙΠΑΣ, ΦΟΥΝΤΟΥΚΙ ΚΑΙ ΝΟΤΕΣ ΠΕΚΑΝ( PECAN )",
+   "Description": "ΚΑΠΝΟΣ ΠΙΠΑΣ, ΦΟΥΝΤΟΥΚΙ ΚΑΙ ΝΟΤΕΣ ΠΕΚΑΝ (PECAN)",
    "Category": "ΗΜΙΚΑΠΝΙΚΟ"
  },
  {
@@ -1431,7 +1431,7 @@
  },
  {
    "Name": "VNV CRAVEN REDWOOD",
-   "Description": "GELATO (ΠΑΓΩΤΟ) ΒΑΝΙΛΙΑΣ, ΣΙΡΟΠΙ ΚΑΡΑΜΕΛΑΣ, ΚΑΡΑΜΕΛΩΜΕΝΑ MACADAMIA NUTS( ΞΗΡΟΙ ΚΑΡΠΟΙ )",
+   "Description": "GELATO (ΠΑΓΩΤΟ) ΒΑΝΙΛΙΑΣ, ΣΙΡΟΠΙ ΚΑΡΑΜΕΛΑΣ, ΚΑΡΑΜΕΛΩΜΕΝΑ MACADAMIA NUTS (ΞΗΡΟΙ ΚΑΡΠΟΙ)",
    "Category": "ΓΛΥΚΟ"
  },
  {
@@ -1471,12 +1471,12 @@
  },
  {
    "Name": "VNV SNOW CONE FROSTBOLT",
-   "Description": "MALIBU( ΜΑΛΙΜΠΟΥ ) ΑΝΑΝΑ",
+   "Description": "MALIBU ΑΝΑΝΑ",
    "Category": "ΦΡΟΥΤΟ ICE"
  },
  {
    "Name": "VNV SNOW CONE ICE LANCE",
-   "Description": "ΖΟΥΜΕΡΟ ΜΑΝΓΚΟ ΣΕ ΕΝΑΝ ΑΝΑΠΑΝΤΕΧΟ ΣΥΝΔΥΑΣΜΟ ΜΕ SODA FLOAT( ΣΟΔΑ )",
+   "Description": "ΖΟΥΜΕΡΟ ΜΑΝΓΚΟ ΣΕ ΕΝΑΝ ΑΝΑΠΑΝΤΕΧΟ ΣΥΝΔΥΑΣΜΟ ΜΕ SODA FLOAT (ΣΟΔΑ)",
    "Category": "ΦΡΟΥΤΟ ICE"
  },
  {
@@ -1541,7 +1541,7 @@
  },
  {
    "Name": "VNV RUBY KAT",
-   "Description": "ΛΕΥΚΗ ΣΟΚΟΛΑΤΑ, ΑΓΡΙΑ BERRIES( ΜΟΥΡΑ ), ΓΚΟΦΡΕΤΑ",
+   "Description": "ΛΕΥΚΗ ΣΟΚΟΛΑΤΑ, ΑΓΡΙΑ BERRIES (ΜΟΥΡΑ), ΓΚΟΦΡΕΤΑ",
    "Category": "ΓΛΥΚΟ"
  },
  {
@@ -1556,7 +1556,7 @@
  },
  {
    "Name": "VNV DEMON SAUCE",
-   "Description": "BUTTERCREAM( ΒΟΥΤΥΡΑΤΗ ΚΡΕΜΑ ), MADAGASCAR VANILLA (ΒΑΝΙΛΙΑ) CUSTARD, CRÈME ROYAL, ΚΑΡΑΜΕΛΑ ΓΑΛΑΚΤΟΣ",
+   "Description": "BUTTERCREAM (ΒΟΥΤΥΡΑΤΗ ΚΡΕΜΑ), MADAGASCAR VANILLA (ΒΑΝΙΛΙΑ) CUSTARD, CRÈME ROYAL, ΚΑΡΑΜΕΛΑ ΓΑΛΑΚΤΟΣ",
    "Category": "ΓΛΥΚΟ"
  },
  {
@@ -1636,7 +1636,7 @@
  },
  {
    "Name": "FIVE PAWNS ORCHARD BLENDS BERRY LIMEADE FLAVOR",
-   "Description": "ΣΜΕΟΥΡΟ, ΜΥΡΤΙΛΟ, ΒΑΤΟΜΟΥΡΟ( ΜΟΥΡΟ ), ΛΕΜΟΝΙ",
+   "Description": "ΣΜΕΟΥΡΟ, ΜΥΡΤΙΛΟ, ΒΑΤΟΜΟΥΡΟ (ΜΟΥΡΟ), ΛΕΜΟΝΙ",
    "Category": "ΦΡΟΥΤΟ"
  },
  {
@@ -1736,7 +1736,7 @@
  },
  {
    "Name": "E-LIQUID FRANCE APPLE COLA",
-   "Description": "COLA( ΚΟΛΑ ), ΜΗΛΟ",
+   "Description": "COLA (ΚΟΛΑ), ΜΗΛΟ",
    "Category": "ΦΡΟΥΤΟ ICE"
  },
  {
@@ -1851,7 +1851,7 @@
  },
  {
    "Name": "AMERICAN STARS FLAVOR BLUE MAGIC",
-   "Description": "ΒΑΤΟΜΟΥΡΟ( ΜΟΥΡΟ ), ΦΡΑΟΥΛΑ, ΔΡΟΣΕΡΗ ΜΕΝΤΑ",
+   "Description": "ΒΑΤΟΜΟΥΡΟ (ΜΟΥΡΟ), ΦΡΑΟΥΛΑ, ΔΡΟΣΕΡΗ ΜΕΝΤΑ",
    "Category": "ΦΡΟΥΤΟ ICE"
  },
  {
@@ -1931,7 +1931,7 @@
  },
  {
    "Name": "BOMBO WAILANI JUICE WATERMELON MOJITO",
-   "Description": "MOJITO ΚΑΡΠΟΥΖΙ ( ΡΟΥΜΙ, ΚΑΡΠΟΥΖΙ, ΜΕΝΤΑ, ΓΛΥΚΟΛΕΜΟΝΑ, ΚΑΣΤΑΝΗ ΖΑΧΑΡΗ )",
+   "Description": "MOJITO ΚΑΡΠΟΥΖΙ  (ΡΟΥΜΙ, ΚΑΡΠΟΥΖΙ, ΜΕΝΤΑ, ΓΛΥΚΟΛΕΜΟΝΑ, ΚΑΣΤΑΝΗ ΖΑΧΑΡΗ)",
    "Category": "ΦΡΟΥΤΟ ICE"
  },
  {
@@ -1966,7 +1966,7 @@
  },
  {
    "Name": "VNV DRAM CUSTO",
-   "Description": "VANILLA CUSTARD (ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ) TOBACCO ( ΚΑΠΝΟΣ ) Η ΑΛΛΙΩΣ VCT",
+   "Description": "VANILLA CUSTARD (ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ) TOBACCO  (ΚΑΠΝΟΣ) Η ΑΛΛΙΩΣ VCT",
    "Category": "ΗΜΙΚΑΠΝΙΚΟ"
  },
  {
@@ -2061,12 +2061,12 @@
  },
  {
    "Name": "BOMBO BAR JUICE ORANGE SODA",
-   "Description": "ΠΟΡΤΟΚΑΛΑΔΑ ( ΠΟΡΤΟΚΑΛΙ ) ΜΕ ΑΝΘΡΑΚΙΚΟ ΚΑΙ ΠΑΓΟ",
+   "Description": "ΠΟΡΤΟΚΑΛΑΔΑ  (ΠΟΡΤΟΚΑΛΙ) ΜΕ ΑΝΘΡΑΚΙΚΟ ΚΑΙ ΠΑΓΟ",
    "Category": "ΦΡΟΥΤΟ ICE"
  },
  {
    "Name": "BOMBO BAR JUICE PINK LEMONADE",
-   "Description": "ΦΡΑΟΥΛΑ, ΛΕΜΟΝΑΔΑ ( ΛΕΜΟΝΙ ), ΠΑΓΟΣ",
+   "Description": "ΦΡΑΟΥΛΑ, ΛΕΜΟΝΑΔΑ  (ΛΕΜΟΝΙ), ΠΑΓΟΣ",
    "Category": "ΦΡΟΥΤΟ ICE"
  },
  {
@@ -2116,7 +2116,7 @@
  },
  {
    "Name": "CHARLIES CHALK DUST FLAVOR CAMPFIRE",
-   "Description": "ΖΑΧΑΡΩΤΟ ( MARSHMALLOW ) ΒΟΥΤΗΓΜΕΝΟ ΣΕ ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ, ΜΠΙΣΚΟΤΟ, ΝΟΤΕΣ ΚΑΝΕΛΑΣ",
+   "Description": "ΖΑΧΑΡΩΤΟ  (MARSHMALLOW) ΒΟΥΤΗΓΜΕΝΟ ΣΕ ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ, ΜΠΙΣΚΟΤΟ, ΝΟΤΕΣ ΚΑΝΕΛΑΣ",
    "Category": "ΓΛΥΚΟ"
  },
  {
@@ -2351,7 +2351,7 @@
  },
  {
    "Name": "BOMBO BAR JUICE BANANA MAX",
-   "Description": " ΜΠΑΝΑΝΑ , ΠΑΓΟΣ ( ICE)",
+   "Description": " ΜΠΑΝΑΝΑ , ΠΑΓΟΣ  (ICE)",
    "Category": "ΦΡΟΥΤΟ ICE"
  },
  {
