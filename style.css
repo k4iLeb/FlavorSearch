@@ -43,6 +43,7 @@ h1 {
 }
 
 .container {
+  position: relative;
   width: 740px;
   margin: 20px auto;
   padding: 10px 0;
@@ -52,6 +53,18 @@ h1 {
   gap: 10px;
   border-radius: 20px;
   background-color: rgb(212 217 219 / 30%);
+}
+
+.search-container {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color:rgb(242 244 244);
+  padding: 10px 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .search-div {
@@ -150,6 +163,8 @@ align-items: center;
 }
 
 .flaName {
+  position: relative;
+  margin-top: 1px;
   font-weight: 600;
   font-size: 0.9rem;
   opacity: 100%;
@@ -160,11 +175,20 @@ align-items: center;
   text-align: center;
 }
 
-.flaCategory {
-  background-color: white;
+.flaCategory,
+.flaQty {
   padding: 0 5px;
   margin-left: 10px;
   border-radius: 5px;
   font-size: 0.8rem;
   text-align: center;
+}
+
+.flaCategory {
+  background-color: white;
+}
+
+.flaQty {
+  background-color: rgb(82, 147, 223) !important;
+  color: white;
 }

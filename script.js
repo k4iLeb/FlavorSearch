@@ -62,6 +62,7 @@ function displayResults(results) {
     `<div class="flaDiv">
       <span class="flaName">${item.Name.trim()}</span>
       <span class="flaCategory">${item.Category}</span>
+      <span class="flaQty">${item.Quantity}</span>
     </div> 
     <span class="flaDesc">${item.Description}</span>`;
 
