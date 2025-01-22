@@ -58,8 +58,7 @@ function displayResults(results) {
   list.innerHTML = "";
   results.forEach((item) => {
     let listItem = document.createElement("li");
-    listItem.innerHTML = 
-    `<div class="flaDiv">
+    listItem.innerHTML = `<div class="flaDiv">
       <span class="flaName">${item.Name.trim()}</span>
       <span class="flaCategory">${item.Category}</span>
       <span class="flaQty">${item.Quantity}</span>
@@ -91,7 +90,7 @@ function checkPrio() {
     "SONS OF VAPING",
     "VENDETTA",
     "OPMH",
-    "NIXX"
+    "NIXX",
   ];
   listItem.forEach((item) => {
     highPrio.forEach((flavor) => {

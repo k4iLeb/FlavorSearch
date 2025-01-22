@@ -26,13 +26,9 @@ body {
 }
 
 .material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 100,
-  'wght' 600,
-  'GRAD' 0,
-  'opsz' 24;
+  font-variation-settings: "FILL" 100, "wght" 600, "GRAD" 0, "opsz" 24;
 
-  font-size: 1.8rem !important
+  font-size: 1.8rem !important;
 }
 
 h1 {
@@ -50,16 +46,15 @@ h1 {
   align-items: center;
   display: flex;
   flex-direction: column;
-  gap: 10px;
   border-radius: 20px;
   background-color: rgb(212 217 219 / 30%);
 }
 
 .search-container {
   position: sticky;
-  top: 0;
+  top: -1px;
   z-index: 1;
-  background-color:rgb(242 244 244);
+  background-color: rgb(242 244 244);
   padding: 10px 0;
   width: 100%;
   display: flex;
@@ -92,7 +87,7 @@ h1 {
 }
 
 .btn:hover {
-  background-color: #9d68c890;
+  /* background-color: #9d68c890; */
   cursor: pointer;
 }
 
@@ -141,7 +136,7 @@ li {
   font-family: Roboto, sans-serif;
   list-style-type: none;
   margin: 10px 0;
-  padding: 5px 10px;
+  padding: 3px 10px;
   border-radius: 10px;
   background-color: rgb(212 217 219 / 80%);
   width: 100%;
@@ -152,14 +147,14 @@ li {
 }
 
 li:hover {
-  box-shadow: inset 0px 0px 5px rgb(53, 52, 52);
+  box-shadow: inset 0px 0px 3px rgb(53, 52, 52);
 }
 
 .flaDiv {
-display: flex;
-flex-direction: row;
-flex-wrap: nowrap;
-align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
 }
 
 .flaName {
@@ -171,6 +166,8 @@ align-items: center;
 }
 
 .flaDesc {
+  position: relative;
+  top: 1px;
   font-size: 0.9rem;
   text-align: center;
 }
