@@ -8,2456 +8,2941 @@
  {
    "Name": "CARAVELLA BROWN SUGAR NUTS TOBACCO",
    "Description": "ΚΑΠΝΟΣ, ΚΑΦΕ ΖΑΧΑΡΗ, ΜΠΙΣΚΟΤΟ, ΒΟΥΤΥΡΟ, ΞΗΡΟΙ ΚΑΡΠΟΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml"
  },
  {
    "Name": "CARAVELLA APPLE PIE TOBACCO",
    "Description": "ΑΜΕΡΙΚΑΝΙΚΟΣ ΚΑΠΝΟΣ, ΜΗΛΟΠΙΤΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml"
  },
  {
    "Name": "CARAVELLA VIRGINIA TOBACCO",
    "Description": "ΚΑΠΝΟΣ VIRGINIA",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml"
  },
  {
    "Name": "CARAVELLA RY4 PEANUT BANANA",
    "Description": "ΜΠΑΝΑΝΑ, ΦΥΣΤΙΚΙ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml"
  },
  {
    "Name": "CARAVELLA RY4 BUTTERSCOTCH",
    "Description": "ΚΑΡΑΜΕΛΑ ΒΟΥΤΥΡΟΥ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml"
  },
  {
    "Name": "CARAVELLA PIPE TOBACCO CUSTARD CREAM",
    "Description": "ΚΑΠΝΟΣ ΠΙΠΑΣ, ΚΡΕΜΑ, ΒΑΝΙΛΙΑ, CUSTARD, ΦΟΥΝΤΟΥΚΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml"
  },
  {
    "Name": "CARAVELLA CIGAR LEAF EXTRACT",
    "Description": "ΚΑΠΝΟΣ ΠΟΥΡΟΥ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml"
  },
  {
    "Name": "SWEET DREAMS CARAMEL FUSION",
    "Description": "ΚΑΡΑΜΕΛΑ, ΚΑΡΑΜΕΛΑ ΒΟΥΤΥΡΟΥ, ΚΑΡΑΜΕΛΑ ΓΑΛΑΚΤΟΣ ΚΑΙ DULCE DE LECHE",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "SWEET DREAMS CARROT CAKE",
    "Description": "CARROT CAKE, AMERICAN CAKE, ΚΑΡΟΤΟ, ΚΡΕΜΑ CHEESECAKE ΣΕ ΜΟΡΦΗ ΓΛΑΣΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "SWEET DREAMS GLAZED DONUT",
    "Description": "ΖΥΜΗ DONUT (ΝΤΟΝΑΤ), ΚΡΕΜΑ ΒΑΥΑΡΙΑΣ, ΓΛΑΣΟ ΛΙΩΜΕΝΗΣ ΖΑΧΑΡΗΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "SWEET DREAMS MANGO TART",
    "Description": "ΤΑΡΤΑ ΒΟΥΤΥΡΟΥ, NEW YORK CHEESECAKE, MANGO",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "SWEET DREAMS MILKSHAKE COOKIE",
    "Description": "ΓΑΛΑ, ΚΡΕΜΑ, ΜΠΙΣΚΟΤΟ ΚΑΙ ΒΟΥΤΥΡΟ. ΕΝΑ MILKSHAKE ΜΕ ΕΛΑΦΡΙΕΣ ΝΟΤΕΣ ΑΠΟ ΜΠΙΣΚΟΤΑ ΒΟΥΤΥΡΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "SWEET DREAMS TIRAMISU",
    "Description": "ΤΥΡΙ MASCARPONE, ΚΑΦΕΣ, ΚΑΚΑΟ, ΡΟΥΜΙ, ΚΡΑΣΙ MARSALA, ΜΠΙΣΚΟΤΟ, TIRAMISU",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "5SENSES AMERICAN STRAWBERRY PIE",
    "Description": "ΠΙΤΑ (ΖΥΜΗ), ΦΡΑΟΥΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "5SENSES LEMON MERINGUE BUTTER TART",
    "Description": "ΤΑΡΤΑ, ΜΑΡΕΓΚΑ ΜΕ ΛΕΜΟΝΙ, ΒΟΥΤΥΡΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "5SENSES MIXED BERRY LEMONADE CACTUS",
    "Description": "ΑΝΑΜΕΙΚΤΑ ΜΟΥΡΑ, ΚΑΚΤΟΣ, ΠΑΓΩΜΕΝΗ ΛΕΜΟΝΑΔΑ",
-   "Category": "ΦΡΟΥΤΟ COOL"
+   "Category": "ΦΡΟΥΤΟ COOL",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "5SENSES STRAWBERRY CREAM COOKIES",
    "Description": "ΜΠΙΣΚΟΤΟ ΒΟΥΤΥΡΟΥ, ΓΕΜΙΣΤΟ ΜΕ ΚΡΕΜΑ ΦΡΑΟΥΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "5SENSES TRIPLE BERRY BUTTERMILK COBBLER",
    "Description": "ΒΟΥΤΥΡΟ ΚΑΙ ΜΠΙΣΚΟΤΟ, ΜΕΙΓΜΑ ΜΟΥΡΩΝ ΚΑΙ ΚΡΕΜΑ ΓΑΛΑΚΤΟΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "5SENSES TWO APPLES SHISHA",
    "Description": "ΠΡΑΣΙΝΑ ΚΑΙ ΚΟΚΚΙΝΑ ΜΗΛΑ, ΔΡΟΣΕΙΑ, ΝΑΡΓΙΛΕΣ",
-   "Category": "ΦΡΟΥΤΟ COOL"
+   "Category": "ΦΡΟΥΤΟ COOL",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "OMERTA X FRANKENSKULL SHELLEY ",
    "Description": "ΤΑΡΤΑ ΑΠΟ ΒΟΥΤΥΡΟ ΚΑΝΝΑΒΗΣ, ΚΑΡΑΜΕΛΩΜΕΝΟ ΜΑΝΓΚΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "OMERTA X FRANKENSKULL SPLEEN ",
    "Description": "ΧΥΜΟΣ ΑΧΛΑΔΙ, LIME (ΛΑΙΜ), ΑΨΕΝΤΙ",
-   "Category": "ΦΡΟΥΤΟ COOL"
+   "Category": "ΦΡΟΥΤΟ COOL",
+   "Quantity": "60ml"
  },
  {
    "Name": "LEGACY JULIA",
    "Description": "PASSION FRUIT ΚΑΙ ΑΝΑΝΑΣ, ΤΑΡΤΑ ΒΟΥΤΥΡΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "LEGACY LEONARDO",
    "Description": "ΤΑΡΤΑ, ΚΡΕΜΑ CUSTARD, ΜΟΣΧΟΚΑΡΥΔΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "LEGACY SALVADOR",
    "Description": "ΚΡΕΜΑ ΖΑΧΑΡΟΠΛΑΣΤΙΚΗΣ, ΚΑΠΝΟΣ ΑΜΕΡΙΚΗΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "LEGACY VINCENT",
    "Description": "ΜΠΑΝΑΝΑ, ΔΗΜΗΤΡΙΑΚΑ, ΜΕΛΙ ΚΑΙ ΚΑΡΥΔΙ.",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES APPLE SODA",
    "Description": "ΣΟΔΑ ΜΗΛΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES COLA LEMON",
    "Description": "ΚΟΛΑ, ΠΑΓΟΣ, ΛΕΜΟΝΙ ΚΑΙ LIME (ΛΑΙΜ)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES FROZEN BERRIES",
    "Description": "ΠΑΓΟΣ, CRANBERRY, ΦΡΑΟΥΛΑ ΚΑΙ BLUEBERRY, ΜΟΥΡΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES MANGO PINEAPPLE",
    "Description": "ΑΝΑΝΑΣ ΚΑΙ ΜΑΝΓΚΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES MARGARITA",
    "Description": "ΤΕΚΙΛΑ, ΑΝΑΝΑΣ, ΠΟΡΤΟΚΑΛΙ ΚΑΙ LIME (ΛΑΙΜ), ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES PINK LEMONADE",
    "Description": "ΛΕΜΟΝΙ, ΚΟΚΚΙΝΑ ΜΟΥΡΑ ΚΑΙ ΦΡΑΟΥΛΑ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES STRAWBERRY SORBET",
    "Description": "ΦΡΑΟΥΛΑ, ΠΑΓΟΣ, ΣΙΡΟΠΙ ΦΡΑΟΥΛΑΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "GUSTO AMERICAN TOBACCO",
    "Description": "ΑΜΕΡΙΚΑΝΙΚΟΣ ΑΡΩΜΑΤΙΚΟΣ ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO APPLE PIE",
    "Description": "ΖΥΜΗ ΠΙΤΑΣ, ΓΕΜΙΣΗ ΑΠΟ ΛΙΩΜΕΝΑ ΜΗΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO BANANA STRAWBERRY SMOOTHIE",
    "Description": "SMOOTHIE, ΜΠΑΝΑΝΑ, ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO BLONDE TOBACCO",
    "Description": "ΚΑΠΝΟΣ VIRGINIA",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO BUTTER COOKIE",
    "Description": "ΜΠΙΣΚΟΤΟ ΜΕ ΝΟΤΕΣ ΒΟΥΤΥΡΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO COOL MANGO MIX",
    "Description": "ΤΡΟΠΙΚΑ ΦΡΟΥΤΑ, ΜΑΝΓΚΟ ΣΤΟ ΠΡΟΣΚΗΝΙΟ ΚΑΙ ΔΡΟΣΙΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO COOL STRAWBERRY LEMONADE",
    "Description": "ΠΑΓΩΜΕΝΗ ΛΕΜΟΝΑΔΑ ΜΕ ΣΤΟΙΧΕΙΑ ΦΡΑΟΥΛΑΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO FRUITY BUBBLE GUM",
    "Description": "ΦΡΟΥΤΕΝΙΑ ΓΕΥΣΗ (ΤΣΙΧΛΟΦΟΥΣΚΑ), ΜΕ ΚΥΡΙΟ ΧΑΡΑΚΤΗΡΙΣΤΙΚΟ ΤΟ ΣΤΑΦΥΛΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO GRAPEFRUIT ICE",
    "Description": "ΠΑΓΟΣ ΜΕ ΓΚΡΕΙΠΦΡΟΥΤ (GRAPEFRUIT)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO MOJITO LEMON",
    "Description": "ΜΟΧΙΤΟ, ΛΙΓΟ ΛΕΜΟΝΙ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO SHISHA DOUBLE APPLE",
    "Description": "ΝΑΡΓΙΛΕΣ, ΚΟΚΚΙΝΟ ΚΑΙ ΠΡΑΣΙΝΟ ΜΗΛΟ,",
-   "Category": "ΦΡΟΥΤΟ COOL"
+   "Category": "ΦΡΟΥΤΟ COOL",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO SMOOTH CIGAR",
    "Description": "PREMIUM ΚΑΠΝΟΣ ΑΠΟ ΠΟΥΡΟ ΚΟΥΒΑΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO STRAWBERRY CREAM",
    "Description": "ΚΡΕΜΑ ΦΡΑΟΥΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO TOBACCO CARAMEL",
    "Description": "ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO TOBACCO LEAF",
    "Description": "ΚΑΠΝΟΣ ΟΥΔΕΤΕΡΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO TOBACCO NUTS",
    "Description": "ΞΗΡΟΙ ΚΑΡΠΟΙ, ΚΑΠΝΟΣ, BOURBON (ΜΠΕΡΜΠΟΝ), ΒΑΝΙΛΙΑ, ΚΑΡΥΔΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO TRI-BACCO",
    "Description": "ΚΑΠΝΟΣ, ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ, ΜΠΙΣΚΟΤΟ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO VANILLA ICE CREAM",
    "Description": "ΠΑΓΩΤΟ ΒΑΝΙΛΙΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "GUSTO WATERMELON MIX ICE SORBET",
    "Description": "ΠΑΓΩΤΟ SORBET (ΣΟΡΜΠΕ), ΚΑΡΠΟΥΖΙ, ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "10ml / 60ml / 120ml"
  },
  {
    "Name": "BISHA FRIED ICE CREAM",
    "Description": "ΤΗΓΑΝΙΣΜΕΝΟ ΠΑΓΩΤΟ ΒΑΝΙΛΙΑΣ, ΠΑΝΑΡΙΣΜΕΝΟ ΜΕ ΚΟΡΝ ΦΛΕΙΚΣ, ΣΙΡΟΠΙ ΚΑΡΑΜΕΛΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "BISHA NECTARINE STRAWBERRY GUAVA",
    "Description": "ΝΕΚΤΑΡΙΝΙ, ΦΡΑΟΥΛΑ, ΓΚΟΥΑΒΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "BISHA PISTACHIO MUFFIN",
    "Description": "CAKE MUFFIN, ΞΗΡΟΙ ΚΑΡΠΟΙ, ΦΥΣΤΙΚΙ ΑΙΓΙΝΗΣ, PISTACHIO",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "BISHA VANILLA CUSTARD CIGAR",
    "Description": "ΚΑΠΝΟΣ ΠΟΥΡΟΥ, ΚΡΕΜΑ CUSTARD",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "SWEETUP BOURBON CUSTARD",
    "Description": "ΚΡΕΜΑ CUSTARD, ΣΙΡΟΠΙ BOURBON (ΜΠΕΡΜΠΟΝ)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "SWEETUP CARAMEL CUSTARD",
    "Description": "ΚΑΡΑΜΕΛΑ DULCE DE LECHE, VANILLA CUSTARD (ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "SWEETUP LEMON CUSTARD",
    "Description": "ΜΑΡΕΓΚΑ ΛΕΜΟΝΙΟΥ, ΚΡΕΜΑ CUSTARD",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "SWEETUP VANILLA CUSTARD",
    "Description": "ΚΡΕΜΑ CUSTARD, ΒΑΝΙΛΙΑ, ΒΟΥΤΥΡΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "THE DONS DON GIOVANNI",
    "Description": "ΤΡΟΠΙΚΑ ΦΡΟΥΤΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "THE DONS DON LUCIANO",
    "Description": "ΝΤΟΝΑΤ (DONUT) ΓΕΜΙΣΤΟ ΜΕ ΣΟΚΟΛΑΤΑ, ΓΛΑΣΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "THE DONS DON PIETRO",
    "Description": "ΚΕΙΚ (CAKE) ΜΕ ΒΟΥΤΥΡΟΓΑΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "THE DONS DON VITO",
    "Description": "ΠΟΥΡΟ, ΕΞΩΤΙΚΑ ΦΡΟΥΤΑ, BUTTER RUM (ΡΟΥΜΙ)",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "CARAT BUTTERY TOBACCO",
    "Description": "ΑΡΩΜΑΤΙΚΟΣ ΚΑΠΝΟΣ, ΞΗΡΟΙ ΚΑΡΠΟΙ, ΒΟΥΤΥΡΟ ΠΕΚΑΝ, ΣΙΡΟΠΙ ΚΑΡΑΜΕΛΑΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "CARAT CRUNCHY TOBACCO",
    "Description": "ΚΑΠΝΟΣ, ΦΥΣΤΙΚΙ ΑΙΓΙΝΗΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "CARAT FRUITY TOBACCO",
    "Description": "ΡΟΔΑΚΙΝΟ, ΒΕΡΙΚΟΚΟ, ΚΑΠΝΟΣ ΠΟΥΡΟΥ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "CARAT SILKY TOBACCO",
    "Description": "ΞΑΝΘΟΣ ΑΡΩΜΑΤΙΚΟΣ ΚΑΠΝΟΣ, ΜΠΙΣΚΟΤΟ ΚΑΡΥΔΑΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "CARAT WOODY TOBACCO",
    "Description": "ΚΑΠΝΟΣ ΠΙΠΑΣ, BOURBON (ΜΠΕΡΜΠΟΝ), ΞΥΛΟ ΒΕΛΑΝΙΔΙΑΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "OMERTA CRY NO EVIL",
    "Description": "ΠΑΓΟΣ, ΚΑΡΠΟΥΖΙ, ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "OMERTA FEAR NO EVIL",
    "Description": "ΣΤΑΦΥΛΙ, ΚΙΤΡΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "OMERTA SENSE NO EVIL",
    "Description": "ΜΕΙΓΜΑ ΑΠΟ ΦΡΟΥΤΑ ΜΕ ΓΕΥΣΕΙΣ ΠΟΥ ΘΥΜΙΖΟΥΝ ΤΑ ΔΑΣΗ ΤΗΣ ΛΑΤΙΝΙΚΗΣ ΑΜΕΡΙΚΗΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "OMERTA TOUCH NO EVIL",
    "Description": "ΚΡΕΜΑ ΜΕ ΒΑΝΙΛΙΑ ΚΑΙ ΦΡΑΟΥΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "LA FAMIGLIA THE BOSS",
    "Description": "ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ, ΞΗΡΟΙ ΚΑΡΠΟΙ, ΜΠΙΣΚΟΤΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "LA FAMIGLIA THE CHAIRMAN",
    "Description": "ΚΡΕΜΑ ΒΑΝΙΛΙΑ, ΠΟΥΤΙΓΚΑ ΡΥΖΙΟΥ, ΚΑΝΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "LA FAMIGLIA THE EARNER",
    "Description": "ΡΟΔΑΚΙΝΟ, ΒΕΡΙΚΟΚΟ, ΜΗΛΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "LA FAMIGLIA THE HITMAN",
    "Description": "ΚΑΝΠΟΣ, ΚΑΦΕΣ ΜΟΚΑ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "LA FAMIGLIA THE HITMAN RESERVE\n",
    "Description": "ΚΑΠΝΟΣ, ΙΤΑΛΙΚΗ ΜΟΚΑ, ΚΡΕΜΑ ΚΑΣΤΑΝΟΥ\n",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "NECTAR CITRUS JUICE",
    "Description": "ΛΕΜΟΝΙ, ΠΟΡΤΟΚΑΛΙ, ΓΚΡΕΙΠΦΡΟΥΤ (GRAPEFRUIT)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "NECTAR GUMMY MELON",
    "Description": "ΖΕΛΕΔΑΚΙΑ ΑΠΟ ΖΟΥΜΕΡΟ ΠΕΠΟΝΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "NECTAR STRAWBERRY KIWI",
    "Description": "ΦΡΑΟΥΛΑ, ΑΚΤΙΝΙΔΙΟ (KIWI)",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "NECTAR TROPICAL MANGO",
    "Description": "ΩΡΙΜΟ ΜΑΝΓΚΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "ABSTRACT DAWN",
    "Description": "GRANOLA ΑΠΟ ΜΠΙΣΚΟΤΑ ΚΑΙ ΔΗΜΗΤΡΙΑΚΑ ΜΕ ΜΕΛΙ, ΠΟΙΚΙΛΙΑ ΑΠΟ ΜΟΥΡΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "ABSTRACT MOON RAY",
    "Description": "ΜΠΙΣΚΟΤΟ ΑΜΥΓΔΑΛΟΥ ΚΑΙ ΒΑΝΙΛΙΑΣ, ΤΡΕΙΣ ΤΥΠΟΙ ΚΑΠΝΟΥ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "ABSTRACT NIGHTFALL",
    "Description": "ΑΧΛΑΔΙ, ΚΡΕΜΑ ΚΑΙ ΜΠΙΣΚΟΤΑ GRAHAM CRACKERS",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "SHELBY VAPORS THOMAS",
    "Description": "ΚΟΥΒΑΝΕΖΙΚΟ ΠΟΥΡΟ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "SHELBY VAPORS LUCA",
    "Description": "ΦΡΟΥΤΟ ΤΟΥ ΔΡΑΚΟΥ (DRAGON FRUIT), ΜΗΛΟ, ΡΟΔΑΚΙΝΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "SHELBY VAPORS TATIANA",
    "Description": "ΤΡΟΠΙΚΑ ΦΡΟΥΤΑ (FRUIT PUNCH)",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "SHELBY VAPORS BILLY",
    "Description": "ΠΑΓΩΤΟ ΒΑΝΙΛΙΑ ΣΑΝΤΟΥΙΤΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "SONS OF VAPING ANGEL",
    "Description": "ΒΕΛΓΙΚΗ ΒΑΦΛΑ, ΚΡΕΜΑ MILKSHAKE, ΜΕΛΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING ASS KICKER",
    "Description": "CHEESECAKE ΒΥΣΣΙΝΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING ENFORCER",
    "Description": "GRAHAM CRACKER (ΜΠΙΣΚΟΤΟ), ΚΡΕΜΑ ΓΑΛΑΚΤΟΣ, ΜΕΛΙ, ΚΑΝΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING NOMADS BOBBY",
    "Description": "ΠΑΓΩΜΕΝΟΣ ΑΝΑΝΑΣ ΜΕ DRAGONFRUIT",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING NOMADS FRANKIE",
    "Description": "ΜΗΛΟ, ΡΟΔΑΚΙΝΟ, ΝΕΚΤΑΡΙΝΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING NOMADS HAPPY",
    "Description": "ΠΕΠΟΝΙ, ΜΑΝΓΚΟ, ΠΑΠΑΓΙΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING NOMADS RANE",
    "Description": "ΜΙΞΗ (MIX) ΑΠΟ ΜΟΥΡΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING OL' LADY",
    "Description": "ΤΑΡΤΑ ΜΠΙΣΚΟΤΟΥ, ΚΡΕΜΑ ΖΑΧΑΡΗΣ, ΚΑΡΑΜΕΛΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING PRESIDENT",
    "Description": "ΚΑΠΝΟΣ ΜΕ ΗΜΙΓΛΥΚΕΣ ΝΟΤΕΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING PROSPECT",
    "Description": "ΦΡΟΥΤΟΚΡΕΜΑ (ΑΧΛΑΔΙ - ΜΗΛΟ - ΜΠΑΝΑΝΑ), ΚΡΕΜΑ ΜΠΙΣΚΟΤΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING ROAD CAPTAIN",
    "Description": "ΠΟΥΤΙΓΚΑ, ΜΕ 3 ΔΙΑΦΟΡΕΤΙΚΑ ΕΙΔΗ ΜΠΑΝΑΝΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING SECRETARY",
    "Description": "ΠΑΓΩΤΟ ΚΡΕΜΑ ΦΡΑΟΥΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING TREASURER",
    "Description": "ΚΑΠΝΟΣ, ΑΛΑΤΙΣΜΕΝΟΙ ΞΗΡΟΙ ΚΑΡΠΟΙ, ΑΛΜΥΡΗ ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SONS OF VAPING V.PRESIDENT",
    "Description": "ΗΜΙΓΛΥΚΟΣ ΚΑΠΝΟΣ, ΑΜΕΡΙΚΑΝΙΚΟ ΜΠΕΡΜΠΟΝ (BOURBON), ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "THE GODMOTHER OF LA FAMIGLIA LUNA",
    "Description": "ΚΑΠΝΟΣ ΠΟΥΡΟΥ, ΞΗΡΟΙ ΚΑΡΠΟΙ MACADAMIA",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "THE GODMOTHER OF LA FAMIGLIA MARIA",
    "Description": "BANOFFEE (ΜΠΑΝΟΦΙ), ΚΑΡΑΜΕΛΑ, ΖΥΜΗ ΜΠΙΣΚΟΤΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "THE GODMOTHER OF LA FAMIGLIA PUPETTA",
    "Description": "ΜΠΙΣΚΟΤΟ ΖΑΧΑΡΗΣ (SUGAR COOKIE), ΕΣΠΕΡΙΔΟΕΙΔΗ, ΛΕΜΟΝΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "THE GODMOTHER OF LA FAMIGLIA ROSETTA",
    "Description": "ΑΧΛΑΔΙ, ΜΟΥΡΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VENDETTA JUSTICE",
    "Description": "ΚΑΠΝΟΣ, ΜΠΙΣΚΟΤΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VENDETTA REVENGE",
    "Description": "ΚΑΠΝΟΣ, ΒΑΝΙΛΙΑ, ΚΡΕΜΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VENDETTA UPRISING",
    "Description": "ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ, ΓΛΥΚΟΡΙΖΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "OPMH FLAVOR PRIMITIVE BERRYMILK PIE",
    "Description": "BUTTERMILK PIE (ΒΟΥΤΥΡΟΠΙΤΑ), ΕΠΙΚΑΛΥΨΗ ΑΠΟ ΦΡΑΟΥΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR PRIMITIVE BUTTERMILK PIE",
    "Description": "BUTTERMILK PIE (ΒΟΥΤΥΡΟΠΙΤΑ), ΚΑΡΑΜΕΛΩΜΕΝΗ ΚΡΟΥΣΤΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR PRIMITIVE ESPRESSOMILK PIE",
    "Description": "BUTTERMILK PIE (ΒΟΥΤΥΡΟΠΙΤΑ), ΕΣΠΡΕΣΟ(ESPRESSO)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR PRIMITIVE FLAK'D",
    "Description": "ΦΥΛΛΑ ΖΑΧΑΡΟΠΛΑΣΤΙΚΗΣ (ΖΥΜΗ), ΦΥΣΤΙΚΙ, ΚΑΡΥΔΙ, ΣΙΡΟΠΙ ΖΑΧΑΡΗΣ, ΜΕΛΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR PRIMITIVE SKIPPERMILK PIE",
    "Description": "ΚΡΕΜΑ CUSTARD (ΒΑΝΙΛΙΑ), ΖΥΜΗ ΚΑΙ ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR PRIMITIVE VESTIGE",
    "Description": "ΚΡΕΜΑ ΛΕΜΟΝΙΟΥ, ΝΤΟΝΑΤ (DONUT), ΖΑΧΑΡΗ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR SUGAR COOKIE",
    "Description": "SUGAR COOKIE (ΜΠΙΣΚΟΤΟ ΒΟΥΤΥΡΟΥ ΖΑΧΑΡΗΣ)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR WATSON GOLD",
    "Description": "ΚΑΠΝΟΣ WATSON, ΚΑΦΕΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR WATSON OG",
    "Description": "ΚΑΠΝΟΣ WATSON ΣΕ ΣΥΝΔΥΑΣΜΟ ΜΕ ΚΛΑΣΙΚΟ ΚΑΠΝΟ ΒΑΝΙΛΙΑΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR WATSON PLATINUM",
    "Description": "ΚΑΠΝΟΣ WATSON, ΚΑΡΑΜΕΛΑ ΒΟΥΤΥΡΟΥ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR WATSON ROSE GOLD",
    "Description": "ΞΙΝΟ ΒΑΤΟΜΟΥΡΟ ΜΕ ΚΑΠΝΟ WATSON",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "OPMH FLAVOR WATSON WHITE GOLD",
    "Description": "ΚΡΕΜΑ, ΚΑΠΝΟΣ WATSON",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "Rope Cut Dark Thirty",
    "Description": "ΚΑΠΝΟΣ ΠΙΠΑΣ, ΑΠΟΞΗΡΑΜΕΝΑ ΔΑΜΑΣΚΗΝΑ ΚΑΙ ΣΤΑΦΙΔΑ, ΛΕΥΚΟ ΡΟΥΜΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "Rope Cut Loose Canon",
    "Description": "ΚΑΠΝΟΣ ,ΚΑΒΟΥΡΔΙΣΜΕΝΟ ΚΑΡΥΔΙ, ΚΡΕΜΑ ΚΑΡΑΜΕΛΑΣ BUTTERSCOTCH (ΒΟΥΤΥΡΟΥ)",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "Rope Cut Skipper",
    "Description": "ΞΑΝΘΟΣ ΚΑΠΝΟΣ, ΚΡΕΜΑ CUSTARD (ΒΑΝΙΛΙΑ)",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "Best Friends Suki",
    "Description": "ΒΑΤΟΜΟΥΡΟ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "100ml"
  },
  {
    "Name": "Best Friends Roxy",
    "Description": "ΚΑΡΠΟΥΖΙ, ΛΕΜΟΝΙ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "100ml"
  },
  {
    "Name": "PACHA MAMA FUJI APPLE",
    "Description": "ΜΗΛΟ, ΦΡΑΟΥΛΑ, ΝΕΚΤΑΡΙΝΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "PACHA MAMA FUJI APPLE ICE",
    "Description": "ΜΗΛΟ, ΦΡΑΟΥΛΑ, ΝΕΚΤΑΡΙΝΙ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "PACHA MAMA PAPAYA COCONUT",
    "Description": "ΚΡΕΜΑ ΚΑΡΥΔΑΣ, ΠΑΠΑΓΙΑ (PAPAYA), ΡΟΔΑΚΙΝΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "PACHA MAMA STRAWBERRY JUBILEE ICE",
    "Description": "ΚΑΡΠΟΥΖΙ, ΦΡΑΟΥΛA, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "JOORA 1 ΑΡ ΓΟΥΑΪ ΦΟΡ",
    "Description": "ΚΑΠΝΟΣ ΜΕ ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 2 ΠΕΠΟΝΙ ΜΕΝΤΑ",
    "Description": "ΠΕΠΟΝΙ ΜΕΝΤΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 3 ΜΑΝΓΚΟ",
    "Description": "ΜΑΝΓΚΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 4 ΛΕΜΟΝΟΤΑΡΤΑ",
    "Description": "ΛΕΜΟΝΟΤΑΡΤΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 5 ΚΑΡΠΟΥΖΙ",
    "Description": "ΚΑΡΠΟΥΖΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 6 ΚΛΑΣΣΙΚΟΣ ΚΑΠΝΟΣ",
    "Description": "ΚΛΑΣΣΙΚΟΣ ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 7 ΚΑΠΝΟΣ ΠΙΠΑΣ",
    "Description": "ΚΑΠΝΟΣ ΠΙΠΑΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 8 ΚΑΠΝΟΦΥΛΛΑ",
    "Description": "ΚΑΠΝΟΦΥΛΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 9 ΦΡΟΥΤΕΝΙΑ ΔΗΜΗΤΡΙΑΚΑ",
    "Description": "ΦΡΟΥΤΕΝΙΑ ΔΗΜΗΤΡΙΑΚΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 10 ΜΠΑΝΑΝΑ ΦΡΑΟΥΛΑ",
    "Description": "ΜΠΑΝΑΝΑ ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 11 ΜΙΞ ΜΟΥΡΩΝ",
    "Description": "ΜΙΞ ΜΟΥΡΩΝ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JOORA 12 ΜΠΙΣΚΟΤΟ",
    "Description": "ΜΠΙΣΚΟΤΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 60ml / 120ml"
  },
  {
    "Name": "JUST JUICE ICE BLACKCURRANT & LIME",
    "Description": "ΦΡΑΓΚΟΣΤΑΦΥΛΟ, ΛΑΙΜ (LIME), ΜΕΝΤΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "JUST JUICE ICE CITRON & COCONUT",
    "Description": "ΚΙΤΡΟ, ΚΑΡΥΔΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "JUST JUICE ICE GRAPE & MELON",
    "Description": "ΜΑΥΡO ΣΤΑΦΥΛΙ, ΠΕΠΟΝΙ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "NOOB FLAVOR PROXY",
    "Description": "ΜΠΙΣΚΟΤΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "NOOB FLAVOR TRAVELLER",
    "Description": "ΦΡΑΟΥΛΑ ΚΑΙ ΖΟΥΜΕΡΑ ΡΟΔΑΚΙΝΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "DON CRISTO",
    "Description": "ΠΟΥΡΟ MONTE CRISTO",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "DON CRISTO COFFEE",
    "Description": "ΠΟΥΡΟ MONTE CRISTO, ΚΑΦΕΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "DON CRISTO CUSTARD 15ML",
    "Description": "ΠΟΥΡΟ MONTE CRISTO, ΚΡΕΜΑ CUSTARD",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "DON CRISTO PISTACHIO",
    "Description": "ΠΟΥΡΟ MONTE CRISTO, ΚΡΕΜΑ ΦΥΣΤΙΚΙ ΑΙΓΙΝΗΣ (PISTACHIO)",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "DON CRISTO XO",
    "Description": "ΠΟΥΡΟ MONTE CRISTO, ΚΑΡΑΜΕΛΑ ΒΟΥΤΥΡΟΥ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES APPLE TOBACCO",
    "Description": "ΜΗΛΟ , ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES SAN JUAN",
    "Description": "ΚΑΠΝΟΣ ΚΑΡΑΪΒΙΚΗΣ ΜΕ ΝΤΕΛΙΚΑΤΟ ΠΟΥΡΟ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT BANANA",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ, ΜΠΑΝΑΝΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT BOLD",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ, ΜΕ ΠΙΟ ΕΝΤΟΝΗ ΑΙΣΘΗΣΗ ΤΟΥ ΚΑΠΝΟΥ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT CAFÉ",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ, ΚΑΦΕΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT CARAMEL",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ, ΚΑΡΑΜΕΛΑ ΒΟΥΤΥΡΟΥ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT CHOCOLATE",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ, ΣΟΚΟΛΑΤΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT CINNAMON",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ ΚΑΙ ΝΟΤΕΣ ΚΑΝΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT COCONUT",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ, ΚΑΡΥΔΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT NORTH",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ, ΜΕΝΤΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT PISTACHIO",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ, ΦYΣΤΙΚΙ ΑΙΓΙΝΗΣ (PISTACHIO)",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT PRIVATE RESERVE",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ, ΩΡΙΜΑΣΜΕΝΟ ΓΙΑ 90 ΗΜΕΡΕΣ ΣΕ ΔΡΥΪΝΟ ΒΑΡΕΛΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "RIPE VAPES VCT SWEET ALMOND",
    "Description": "ΚΡΕΜΑ CUSTARD ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΚΑΒΟΥΡΔΙΣΜΕΝΟ ΑΜΥΓΔΑΛΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "SAD BOY BUTTER COOKIE",
    "Description": "ΜΠΙΣΚΟΤΟ ΒΟΥΤΥΡΟΥ, ΞΥΣΜΑ ΛΕΜΟΝΙΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SAD BOY CUSTARD COOKIE",
    "Description": "ΜΠΙΣΚΟΤΟ ΒΟΥΤΥΡΟΥ, ΠΛΟΥΣΙΑ ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SAD BOY KEYLIME COOKIE",
    "Description": "KEYLIME (ΛΑΙΜ), ΒΟΥΤΥΡΕΝΙΑ ΧΡΥΣΗ ΚΡΟΥΣΤΑ ΜΠΙΣΚΟΤΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SAD BOY NOLA LINE BLUEBERRY",
    "Description": "ΔΗΜΗΤΡΙΑΚΑ ΒΡΩΜΗΣ, ΞΗΡΟΙ ΚΑΡΠΟΙ, BLUEBERRY (ΜΥΡΤΙΛΟ), ΚΡΕΜΑ ΒΑΝΙΛΙΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SAD BOY NOLA LINE STRAWBERRY",
    "Description": "ΔΗΜΗΤΡΙΑΚΑ ΒΡΩΜΗΣ, ΞΗΡΟΙ ΚΑΡΠΟΙ, STRAWBERRY (ΦΡΑΟΥΛΑ), ΚΡΕΜΑ ΒΑΝΙΛΙΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SAD BOY PUMKIN COOKIE",
    "Description": "ΜΠΙΣΚΟΤΟ, ΚΟΛΟΚΥΘΑ, ΚΑΝΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SAD BOY STRAWBERRY JAM",
    "Description": "ΒΟΥΤΥΡΕΝΙΟ ΜΠΙΣΚΟΤΟ ΖΑΧΑΡΗΣ, ΜΑΡΜΕΛΑΔΑ ΦΡΑΟΥΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "SAD BOY UNICORN TEARS",
    "Description": "ΒΑΣΗ ΜΠΙΣΚΟΤΟΥ ΒΟΥΤΥΡΟΥ, ΕΣΠΕΡΙΔΟΕΙΔΗ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR ALL ABOARD +PLUS",
    "Description": "ΠΑΓΩΜΕΝΟ ΣΤΑΦΥΛΙ, ΠΡΑΣΙΝΟ ΜΗΛΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR ALL ABOARD",
    "Description": "ΠΑΓΩΜΕΝΟ ΣΤΑΦΥΛΙ, ΠΡΑΣΙΝΟ ΜΗΛΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR BELLS & WHISTLES",
    "Description": "ΡΟΔΑΚΙΝΟ, ΚΑΡΠΟΥΖΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR CHOO CHOO",
    "Description": "ΝΑΠΟΛΙΤΑΝΙΚΟ GELATO (ΠΑΓΩΤΟ), ΣΟΚΟΛΑΤΑ, ΦΡΑΟΥΛΑ, ΒΑΝΙΛΙΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR DERAIL",
    "Description": "ΠΑΓΩΜΕΝΟ, ΜΗΛΟ, ΡΟΔΑΚΙΝΟ, ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR DESTINATION",
    "Description": "ΑΝΑΝΑΣ, ΦΡΟΥΤΟ ΤΟΥ ΠΑΘΟΥΣ (PASSION FRUIT), ΠΟΡΤΟΚΑΛΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR FINAL RIDE",
    "Description": "ΝΤΟΝΑΤ (DONUT), ΓΕΜΙΣΗ ΚΡΕΜΑΣ, ΖΑΧΑΡΗ ΑΧΝΗ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR GET OFF",
    "Description": "ALOE VERA (ΑΛΟΗ), ΧΥΜΟΣ ΣΤΑΦΥΛΙ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR GHOST TRAIN",
    "Description": "ΠΑΓΩΜΕΝΟ ΜΑΝΓΚΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR HIJACKER",
    "Description": "ΠΑΓΩΜΕΝΗ ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR INSPECTOR",
    "Description": "KENTUCKY BOURBON (ΜΠΕΡΜΠΟΝ), ΚΡΕΜΑ ΚΑΡΥΔΑΣ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR INTERRAIL PASS",
    "Description": "ΖΥΜΗ ΜΠΙΣΚΟΤΟΥ, ΠΟΥΤΙΓΚΑ ΜΠΑΝΑΝΑΣ, ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ, ΜΠΑΝΑΝΑ, ΖΑΧΑΡΗ ΑΧΝΗ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR INVICTA",
    "Description": "STRAWBERRY CANDY (ΦΡΑΟΥΛΑ)",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR JOURNEY",
    "Description": "DOUBLE APPLE (ΜΗΛΟ), ΝΑΡΓΙΛΕΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR JUBILEE",
    "Description": "ΠΑΓΩΜΕΝΟ DAIQUIRI ΦΡΑΟΥΛΑ, ΦΡΑΟΥΛΑ, ΡΟΥΜΙ, ΧΥΜΟ LIME (ΛΑΙΜ) ΚΑΙ ΖΑΧΑΡΗ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR LUBRICATOR",
    "Description": "ΜΠΙΣΚΟΤΟ, ΓΕΜΙΣΗ ΑΠΟ ΖΕΛΕ ΠΟΡΤΟΚΑΛΙ, ΕΠΙΚΑΛΥΨΗ ΣΟΚΟΛΑΤΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR MAGNIFICENT",
    "Description": "CUPCAKE (ΖΥΜΗ), ΚΡΕΜΑ ΒΟΥΤΥΡΟΥ, SPRINKLES (ΤΡΟΥΦΑ)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR OFF TRACK",
    "Description": "ΦΡΑΓΚΟΣΤΑΦΥΛΟ, ΛΕΜΟΝΑΔΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR OLD STATIONS BBW",
    "Description": "ΒΑΦΛΑ ΜΕ ΜΥΡΤΙΛΛΟ (BLUEBERRY), ΜΗΛO, ΚΑΝΕΛΑ, ΜΑΥΡΗ ΖΑΧΑΡΗ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR OLD STATIONS DELIZIA DOUBLE ICE",
    "Description": "ΠΑΓΩΜΕΝΑ ΤΡΟΠΙΚΑ ΦΡΟΥΤΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR OLD STATIONS L.A. WILD TOBACCO",
    "Description": "ΚΑΠΝΟΣ, ΠΙΚΑΝΤΙΚΗ ΚΑΡΑΜΕΛΑ, ΒΑΝΙΛΙΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR OLD STATIONS RED BERRIES SLASH",
    "Description": "ΚΕΡΑΣΙ, ΦΡΑΟΥΛΑ, ΠΑΓΩΜΕΝΟ ΜΟΥΡΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR OLD STATIONS THE DOPE RESERVA",
    "Description": "CHEESECAKE, ΒΑΣΗ ΜΠΙΣΚΟΤΟΥ, ΤΥΡΙ ΚΡΕΜΑ, ΜΑΡΜΕΛΑΔΑ ΦΡΑΟΥΛΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR OLD STATIONS TROPICAL COOLER",
    "Description": "ΚΟΚΤΕΙΛ ΑΠΟ ΕΞΩΤΙΚΑ ΦΡΟΥΤΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR REGULATOR",
    "Description": "ΜΠΙΣΚΟΤΟ, ΚΑΦΕΣ, ΒΟΥΤΥΡΟ, ΚΑΚΑΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR SANS PAREIL",
    "Description": "ΚΑΡΑΜΕΛΑ ΒΟΥΤΥΡΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR SIGNALMAN +PLUS",
    "Description": "KΡΕΜΑ, ΦΡΑΟΥΛΑ, ΜΕ ΑΝΕΒΑΣΜΕΝΗ ΤΗ ΓΕΥΣΗ ΤΗΣ ΚΡΕΜΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR SIGNALMAN",
    "Description": "KΡΕΜΑ, ΦΡΑΟΥΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR THE LIONEL",
    "Description": "ΜΟΥΡΑ (BERRIES), ΘΡΥΜΜΑΤΙΣΜΕΝΟΣ ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR THRUST",
    "Description": "ΚΕΡΑΣΙ, ΔΑΜΑΣΚΗΝΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR TIMEKEEPER +PLUS",
    "Description": "ΜΠΙΣΚΟΤΟ ΒΟΥΤΥΡΟΥ ΖΑΧΑΡΗΣ ΜΕ ΚΑΤΕΒΑΣΜΕΝΗ ΓΛΥΚΥΤΗΤΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR TIMEKEEPER",
    "Description": "ΜΠΙΣΚΟΤΟ ΒΟΥΤΥΡΟΥ ΖΑΧΑΡΗΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR TRANSPORTER",
    "Description": "ALOE VERA (ΑΛΟΗ), ΧΥΜΟΣ ΜΑΝΓΚΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR TRAQUERO",
    "Description": "ΜΑΝΓΚΟ ΚΑΙ ΧΥΜΟΣ ΑΝΑΝΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR TURN OUT",
    "Description": "ΚΑΡΠΟΥΖΙ, ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR WHISTLE",
    "Description": "ΛΕΜΟΝΑΔΑ, ΚΑΦΕ ΖΑΧΑΡΗ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN GOLD RUSH",
    "Description": "ΖΥΜΗ, ΞΗΡΟΙ ΚΑΡΠΟΙ, ΜΕΛΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAM TRAIN LAST CALL",
    "Description": "ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ, ΜΕΛΙ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAM TRAIN ONE WAY TICKET",
    "Description": "ΚΑΠΝΟΣ ΑΠΟ ΑΝΑΤΟΛΗ ΚΑΙ ΔΥΣΗ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR AMELIE",
    "Description": "ΖΥΜΗ ΜΠΙΣΚΟΤΟΥ, ΜΑΡΕΓΚΑ, ΜΙΚΡΑ ΚΑΡΑΜΕΛΩΜΕΝΑ ΚΥΒΑΚΙΑ ΛΕΜΟΝΙΟΥ, ΤΑΡΤΑ ΛΕΜΟΝΙΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR ANTOINETTE",
    "Description": "ΚΡΕΜΑ ΒΑΝΙΛΙΑ, ΒΑΦΛΑ ΦΙΣΤΙΚΟΒΟΥΤΥΡΟΥ, ΑΡΩΜΑΤΙΚΗ ΜΟΚΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR CHLOE",
    "Description": "ΑΝΑΝΑΣ, ΓΛΥΚΟΞΙΝΟ ΜΑΝΓΚΟ, ΡΟΔΑΚΙΝΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR GOOFE'S JUICE",
    "Description": "ΕΛΛΗΝΙΚΟΣ ΚΑΠΝΟΣ, ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ, ΦΟΥΝΤΟΥΚΙ, ΚΑΡΑΜΕΛΑ ΚΑΙ ΜΠΙΣΚΟΤΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR ISABELLE",
    "Description": "ΜΠΙΣΚΟΤΟ ΒΟΥΤΥΡΟΥ, ΖΑΧΑΡΗ, ΒΑΝΙΛΙΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR JULIETTE",
    "Description": "ΚΡΕΜΑ, ΑΛΜΥΡΗ ΚΑΡΑΜΕΛΑ, BUTTERSCOTCH (ΒΟΥΤΥΡΟΥ)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR LOUNGE",
    "Description": "ΦΟΥΝΤΟΥΚΙ, ΜΠΙΣΚΟΤΟ ΒΟΥΤΥΡΟΥ, ΚΑΡΥΔΑ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR MARGUERITE",
    "Description": "ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ, ΜΥΣΤΙΚΕΣ ΑΡΩΜΑΤΙΚΕΣ ΝΟΤΕΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR MARION",
    "Description": "ΦΡΑΟΥΛΑ, ΚΡΕΜΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR PEARL",
    "Description": "ΡΟΔΙ, ΔΡΟΣΕΡΟ ΣΤΑΦΥΛΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR RY4 BRONZE",
    "Description": "ΚΑΡΑΜΕΛΑ, ΚΡΕΜΑ, ΒΑΝΙΛΙΑ, ΜΟΚΑ, ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ, ΓΚΟΦΡΕΤΑ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR RY4 GOLD",
    "Description": "ΚΑΦΕ, ΚΑΒΟΥΡΔΙΣΜΕΝΟ ΦΟΥΝΤΟΥΚΙ, ΒΑΝΙΛΙΑ, ΜΕΛΙ, ΚΑΡΑΜΕΛΑ ΒΟΥΤΥΡΟΥ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR RY4 PLATINUM",
    "Description": "ΚΑΡΑΜΕΛΑ, ΒΑΝΙΛΙΑ, ΚΑΒΟΥΡΔΙΣΜΕΝΟ ΠΕΚΑΝ, ΚΡΕΜΑ ΦΟΥΝΤΟΥΚΙΟΥ, ΜΠΙΣΚΟΤΟ, ΣΦΕΝΔΑΜΟΣ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR RY4 SILVER",
    "Description": "ΚΑΡΑΜΕΛΑ ΒΟΥΤΥΡΟΥ, ΖΥΜΗ, ΚΡΕΜΑ ΦΟΥΝΤΟΥΚΙΟΥ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR SIMONE",
    "Description": "ΠΟΡΤΟΚΑΛΙ, ΜΑΝΤΑΡΙΝΙ, ΑΝΑΝΑΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR SOLEIL",
    "Description": "ΚΑΡΠΟΥΖΙ, ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR SPECIAL EDITION NO1",
    "Description": "ΚΑΠΝΟΣ, ΜΠΑΝΑΝΑ, ΦΥΣΤΙΚΙ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR SPECIAL EDITION NO2",
    "Description": "ΚΑΠΝΟΣ, ΚΡΕΜΑ, ΜΠΙΣΚΟΤΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR SPECIAL EDITION NO3",
    "Description": "ΚΑΠΝΟΣ, ΓΛΥΚΙΑ ΚΡΕΜΑ, ΑΜΥΓΔΑΛΟ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK FLAVOR SPECIAL EDITION NO4",
    "Description": "ΚΑΠΝΟΣ, ΚΑΡΥΔΑ, ΠΑΛΑΙΩΜΕΝΟ ΜΠΕΡΜΠΟΝ (BOURBON), ΚΑΡΑΜΕΛΩΜΕΝΟ ΑΜΥΓΔΑΛΟ, ΒΑΝΙΛΙΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TASTY CLOUDS BISCUIT CREAM",
    "Description": "ΜΠΙΣΚΟΤΟ, ΠΛΟΥΣΙΑ ΚΡΕΜΑΣ ΒΑΝΙΛΙΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "TASTY CLOUDS BUDDHA BACCO",
    "Description": "ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ, ΚΑΡΑΜΕΛΑ, ΚΑΠΝΟΣ RY4",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TASTY CLOUDS CARAMEL CREAM",
    "Description": "ΚΑΡΑΜΕΛΑ ΒΟΥΤΥΡΟΥ, ΚΡΕΜΑ ΖΑΧΑΡΟΠΛΑΣΤΙΚΗΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "TASTY CLOUDS URSULA",
    "Description": "ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TASTY CLOUDS URSULA COFFEE",
    "Description": "ΚΑΠΝΟΣ ΤΗΣ URSULA, ΚΑΦΕΣ, ΚΡΕΜΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TASTY CLOUDS URSULA CREAM",
    "Description": "ΚΑΠΝΟΣ ΤΗΣ URSULA, ΚΡΕΜΑ ΒΑΝΙΛΙΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TASTY CLOUDS URSULA PEANUT BUTTER",
    "Description": "CRUNCHY ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ ΣΕ ΣΥΝΔΥΑΣΜΟ ΜΕ ΤΟΝ ΚΑΠΝΟ ΤΗΣ URSULA",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TASTY CLOUDS URSULA SUGAR FREE",
    "Description": "ΚΑΠΝΟΣ, ΧΩΡΙΣ ΓΛΥΚΑΝΤΙΚΑ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TNT FLAVOR DARK LAKE KENTUCKY",
    "Description": "ΚΑΠΝΟΣ ΠΟΥΡΟΥ, ΚΑΠΝΟΣ ΚΕΝΤΑΚΥ, ΠΑΡΟΥΣΙΑ LATAKIA",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "30ml"
  },
  {
    "Name": "TNT FLAVOR VIRGINIA HIGHLANDS",
    "Description": "ΚΑΠΝΟΣ VIRGINIA (ΒΙΡΤΖΙΝΙΑ) BRIGHTLEAF ΚΑΙ ORIENTAL TOBACCO",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "30ml"
  },
  {
    "Name": "TNT FLAVOR BALKAN SOBRANIE",
    "Description": "ΚΑΠΝΟΣ LATAKIA, ΒΙΡΤΖΙΝΙΑ (VIRGINIA)",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "30ml"
  },
  {
    "Name": "TNT FLAVOR SILENT HILLS",
    "Description": "ΚΑΠΝΟΣ PERIQUE, ΚΑΠΝΟΣ BURLEY",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "30ml"
  },
  {
    "Name": "TNT FLAVOR TRINIDAD AVANA",
    "Description": "ΚΑΠΝΟΣ ΑΒΑΝΑ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "30ml"
  },
  {
    "Name": "TNT FLAVOR BOOMS VANILLA CREAM TOBACCO GRAN RESERVE",
    "Description": "ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ, ΜΠΡΑΝΤΥ.",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TNT FLAVOR BOOMS VANILLA CREAM TOBACCO",
    "Description": "ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB COSTA RICA FLAVOR",
    "Description": "ΠΙΠΕΡΑΤΟΣ ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB ATHOS FLAVOR",
    "Description": "ΦΟΥΝΤΟΥΚΙ, ΜΠΙΣΚΟΤΟ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB BATIDA DE COCO FLAVOR",
    "Description": "ΡΟΥΜΙ, ΓΑΛΑ ΚΑΙ ΚΑΡΥΔΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB WINTER FLAVOR",
    "Description": "ΚΑΠΝΟΣ, ΜΙΑ ΔΟΣΗ ΑΛΚΟΟΛ ΚΑΙ ΜΙΑ ΣΤΡΩΣΗ ΚΑΡΑΜΕΛΑΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB TABAC FLAVOR",
    "Description": "ΚΑΦΕΣ, ΣΟΚΟΛΑΤΑ, ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB SUPERIOR FLAVOR",
    "Description": "ΞΗΡΟΣ ΚΑΠΝΟΣ, ΚΑΚΑΟ ΚΑΙ ΦΟΥΝΤΟΥΚΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB SUMMER FLAVOR",
    "Description": "ΠΕΠΟΝΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB STRAWREDDY WHITE FLAVOR",
    "Description": "ΠΑΓΩΤΟ ΒΑΝΙΛΙΑΣ, ΣΙΡΟΠΙ ΦΡΑΟΥΛΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB SHARK FLAVOR",
    "Description": "ΡΟΥΜΙ, ΚΟΚΚΙΝΑ ΦΡΟΥΤΑ ΚΑΙ ΡΟΔΑΚΙΝΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB RED FLAVOR",
    "Description": "ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB R&B FLAVOR",
    "Description": "ΕΝΕΡΓΕΙΑΚΟ ΠΟΤΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB PINK DREAM FLAVOR",
    "Description": "ΦΡΑΟΥΛΑ, ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB MCMARTEEN FLAVOR",
    "Description": "ΚΑΠΝΟΣ VIRGINIA (ΒΙΡΤΖΙΝΙΑ)",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB IMPERIAL FLAVOR",
    "Description": "ΚΑΠΝΟΣ, ΚΑΒΟΥΡΔΙΣΜΕΝΟ ΑΜΥΓΔΑΛΟ, ΓΛΥΚΟΡΙΖΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB ICE GREEN FLAVOR",
    "Description": "ΔΡΟΣΕΡΗ ΜΕΝΤΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB HYPNOS FLAVOR",
    "Description": "ΚΡΕΜΑ ΜΠΑΝΑΝΑ, ΑΠΟΞΗΡΑΜΕΝΑ ΦΡΟΥΤΑ, ΞΗΡΟΙ ΚΑΡΠΟΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB ERMES FLAVOR",
    "Description": "ΚΑΠΝΟΣ, ΚΡΕΜΑ, ΦΟΥΝΤΟΥΚΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB DRY FLAVOR",
    "Description": "ΞΗΡΟΣ ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB DROPYCHOK FLAVOR",
    "Description": "ΜΠΙΣΚΟΤΟ, ΒΟΥΤΥΡΟ, ΒΑΝΙΛΙΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB BLACK FLAVOR",
    "Description": "ΚΑΠΝΟΣ, ΒΑΝΙΛΙΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB BACCO-G FLAVOR",
    "Description": "ΣΤΑΦΥΛΙΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB ARCADIA FLAVOR",
    "Description": "ΚΑΠΝΟΣ VIRGINIA (ΒΙΡΤΖΙΝΙΑ)",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB AMERICA FLAVOR",
    "Description": "ΠΑΛΑΙΩΜΕΝΟΣ ΑΜΕΡΙΚΑΝΙΚΟΣ ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "TOB ARES FLAVOR",
    "Description": "ΞΗΡΟΣ ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ ΚΑΙ ΒΑΝΙΛΙΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VAPE DISTILLERY STRAWBERRY BUBBLEGUM",
    "Description": "ΡΟΖ ΤΣΙΧΛΟΦΟΥΣΚΑ (BUBBLEGUM) ΜΕ ΓΛΥΚΙΑ ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "VAPE DISTILLERY GRAPE BUBBLEGUM",
    "Description": "ΤΣΙΧΛΟΦΟΥΣΚΑ (BUBBLEGUM) ΜΕ ΣΤΑΦΥΛΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "VAPE DISTILLERY ORIGINAL BUBBLEGUM",
    "Description": "ΑΜΕΡΙΚΑΝΙΚΗ ΤΣΙΧΛΟΦΟΥΣΚΑ (BUBBLEGUM)",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "VAPONAUTE PARIS UNDER THE SEA",
    "Description": "ΠΑΓΩΜΕΝΟ, ΜΕΝΤΑ, ΤΖΙΝ, ΜΟΥΡΟ ΑΡΚΕΥΘΟΥ, ΑΓΓΟΥΡΙ, ΚΑΡΠΟΥΖΙ, ΛΕΒΑΝΤΑ, ΚΟΛΙΑΝΔΡΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "VAPONAUTE PARIS NIGHT FLIGHT",
    "Description": "ΙΡΛΑΝΔΙΚΟΣ ΚΑΦΕΣ, ΝΟΤΕΣ ΚΡΕΜΑΣ, ΟΥΙΣΚΙ (WHISKEY) ΚΑΙ ΜΠΙΣΚΟΤΟ ΑΜΥΓΔΑΛΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VAPONAUTE PARIS OVER THE RAINBOW",
    "Description": "ΠΕΠΟΝΙ CAVAILLON, ΝΟΤΕΣ ΤΖΙΝΤΖΕΡ ΚΑΙ ΛΑΙΜ, ΠΡΑΣΙΝΟ ΣΥΚΟ, ΛΟΥΙΖΑ, ΞΥΣΜΑ ΕΣΠΕΡΙΔΟΕΙΔΩΝ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VAPONAUTE PARIS SUNNY AFTERNOON",
    "Description": "ΚΑΠΝΟΣ, ΜΠΑΝΑΝΑ, ΜΑΥΡΟ ΡΟΥΜΙ, ΚΡΕΜΑ ΧΟΥΡΜΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VAPONAUTE PARIS INTO THE WILD",
    "Description": "ΠΡΑΛΙΝΑ, ΚΑΡΑΜΕΛΑ, ΦΟΥΝΤΟΥΚΙ, ΑΜΥΓΔΑΛΑ, ΚΑΡΥΔΙΑ, ΜΠΑΧΑΡΙΚΑ, ΚΕΡΑΣΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV RAPTOR SAUCE",
    "Description": "CUSTARD, ΣΙΡΟΠΙ ΚΑΦΕ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV CORYLUS",
    "Description": "ΚΑΠΝΟΣ ΠΙΠΑΣ, ΦΟΥΝΤΟΥΚΙ ΚΑΙ ΝΟΤΕΣ ΠΕΚΑΝ (PECAN)",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV TOBACHIO",
    "Description": "ΚΑΠΝΟΣ RY4, ΦΥΣΤΙΚΙ ΑΙΓΙΝΗΣ, ΖΑΧΑΡΩΜΕΝΗ ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV LACREMA MELON",
    "Description": "ΚΡΕΜΑ ΠΟΥΤΙΓΚΑ ΜΕ ΠΕΠΟΝΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV GUANTANA",
    "Description": "ΣΚΟΥΡΟΣ ΑΜΕΡΙΚΑΝΙΚΟΣ ΚΑΠΝΟΣ ΜΕ ΝΟΤΕΣ ΑΠΟ ΚΑΡΥΔΟΨΙΧΑ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV CRAVEN REDWOOD",
    "Description": "GELATO (ΠΑΓΩΤΟ) ΒΑΝΙΛΙΑΣ, ΣΙΡΟΠΙ ΚΑΡΑΜΕΛΑΣ, ΚΑΡΑΜΕΛΩΜΕΝΑ MACADAMIA NUTS (ΞΗΡΟΙ ΚΑΡΠΟΙ)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV CRAVEN ROSEWOOD",
    "Description": "ΚΡΕΜΑ ΠΟΥΤΙΓΚΑ ΜΕ ΠΛΟΥΣΙΑ ΒΑΝΙΛΙΑ, ΣΙΡΟΠΙ BOURBON (ΜΠΕΡΜΠΟΝ)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV CRAVEN AMBOYNA",
    "Description": "ΜΠΙΣΚΟΤΟ ΣΥΝΔΥΑΣΜΕΝΟ ΜΕ ΑΥΘΕΝΤΙΚΟ ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV SHORT FUSE DETONATOR",
    "Description": "ΚΑΛΟΨΗΜΕΝΟ, ΓΛΥΚΟ, ΖΑΧΑΡΩΜΕΝΟ ΜΠΙΣΚΟΤΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "VNV SHORT FUSE NITROGEN",
    "Description": "ΦΡΑΟΥΛΑ, ΠΛΟΥΣΙΑ ΛΑΧΤΑΡΙΣΤΗ ΚΡΕΜΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "VNV RUINS",
    "Description": "ΚΑΡΥΔΑ, ΒΑΝΙΛΙΑ, BOURBON (ΜΠΕΡΜΠΟΝ) ΚΑΙ ΑΜΥΓΔΑΛΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV MAESTRO",
    "Description": "ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ, ΚΟΜΜΑΤΙΑ ΜΠΑΝΑΝΑΣ, ΠΙΝΕΛΙΑ ΚΑΠΟΥΤΣΙΝΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV GOBLIN SAUCE",
    "Description": "ΓΕΜΑΤΗ ΚΡΕΜΑ ΜΕ ΝΟΤΕΣ ΑΠΟ ΘΡΥΜΜΑΤΙΣΜΕΝΟ ΜΠΙΣΚΟΤΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV SNOW CONE FROSTBOLT",
    "Description": "MALIBU ΑΝΑΝΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV SNOW CONE ICE LANCE",
    "Description": "ΖΟΥΜΕΡΟ ΜΑΝΓΚΟ ΣΕ ΕΝΑΝ ΑΝΑΠΑΝΤΕΧΟ ΣΥΝΔΥΑΣΜΟ ΜΕ SODA FLOAT (ΣΟΔΑ)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV SALTYBACCO",
    "Description": "ΞΗΡΟΙ ΚΑΡΠΟΙ, ΚΑΡΑΜΕΛΑ, ΚΑΠΝΟΣ, ΘΑΛΑΣΣΙΝΟ ΑΛΑΤΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV SICILIAN GARDEN",
    "Description": "ΠΕΡΓΑΜΟΝΤΟ, GRAPEFRUIT, LIME (ΛΑΙΜ), ΛΕΜΟΝΙ, ΜΑΡΕΓΚΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV BENEDICT",
    "Description": "ΗΜΙΚΑΠΝΙΚΗ VANILLA CUSTARD(ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ), ΠΡΑΛΙΝΑ ΦΟΥΝΤΟΥΚΙΟΥ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV URBAN CARAMEL",
    "Description": "ΖΥΜΗ, ΑΛΑΤΙΣΜΕΝΗ ΚΑΡΑΜΕΛΑ ΓΑΛΑΚΤΟΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV URBAN BOMBER",
    "Description": "ΜΠΙΣΚΟΤΟ ΨΗΜΕΝΟ ΚΑΙ ΒΟΥΤΗΓΜΕΝΟ ΣΕ ΖΑΧΑΡΗ, ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ, ΝΟΤΕΣ ΚΑΡΑΜΕΛΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV TRINITY",
    "Description": "RY4, ΚΑΡΑΜΕΛΑ, ΒΑΝΙΛΙΑ ΚΑΙ ΚΑΣΤΑΝΗ ΖΑΧΑΡΗ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV BLACK ROSE",
    "Description": "ΑΡΩΜΑΤΙΚΟΣ ΣΚΟΥΡΟΣ ΚΑΠΝΟΣ KENTUCKY (ΚΕΝΤΑΚΥ), ΚΑΠΝΟΣ ΠΙΠΑΣ BURLEY, ΚΕΡΑΣΙ ΚΑΙ ΒΑΝΙΛΙΑ ΜΑΔΑΓΑΣΚΑΡΗΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV HOLY BRITTLE",
    "Description": "ΞΗΡΟΙ ΚΑΡΠΟΙ, ΚΑΡΑΜΕΛΑ ΜΕΛΙΟΥ, SMOKY CRÈME ROYAL (ΚΑΠΝΙΣΤΗ ΚΡΕΜΑ)",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV VOODOO SAUCE",
    "Description": "SAUCE, ΚΑΡΑΜΕΛΑ ΒΟΥΤΥΡΟΥ, ΚΡΕΜΑ ΑNGLAISE, ΣΙΡΟΠΙ ΣΦΕΝΔΑΜΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV PINK VELVET",
    "Description": "ΚΡΕΜΑ ΦΡΑΟΥΛΑ ΣΕ ΤΡΑΓΑΝΟ ΧΩΝΑΚΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV MR. CRANKY",
    "Description": "ΛΕΜΟΝΑΔΑ ΜΕ ΦΡΟΥΤΑ ΤΟΥ ΔΑΣΟΥΣ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV LACREMA",
    "Description": "ΚΡΕΜΑ ΠΟΥΤΙΓΚΑΣ ΜΕ ΝΟΤΕΣ ΜΠΑΝΑΝΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV RUBY KAT",
    "Description": "ΛΕΥΚΗ ΣΟΚΟΛΑΤΑ, ΑΓΡΙΑ BERRIES (ΜΟΥΡΑ), ΓΚΟΦΡΕΤΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV HOLY BLEND",
    "Description": "ΚΑΠΝΟΣ RY4, ΚΑΡΑΜΕΛΑ, ΜΠΙΣΚΟΤΟ, ΖΑΧΑΡΗ, BOURBON (ΜΠΕΡΜΠΟΝ)",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV URBAN APPLE",
    "Description": "ΒΟΥΤΥΡΑΤΗ ΖΥΜΗ, ΚΑΡΑΜΕΛΩΜΕΝΟ ΜΗΛΟ, ΚΑΝΕΛΑ, ΚΡΕΜΑ ΒΑΒΑΡΙΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV DEMON SAUCE",
    "Description": "BUTTERCREAM (ΒΟΥΤΥΡΑΤΗ ΚΡΕΜΑ), MADAGASCAR VANILLA (ΒΑΝΙΛΙΑ) CUSTARD, CRÈME ROYAL, ΚΑΡΑΜΕΛΑ ΓΑΛΑΚΤΟΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "AMBASSADOR FLAVOR PUFF ITALY",
    "Description": "ΔΡΟΣΕΡΗ ΜΕΝΤΑ, ΚΡΕΜΩΔΕΣ ΓΑΛΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "AMBASSADOR FLAVOR PRESTIGE FRANCE",
    "Description": "ΑΝΑΝΑΣ, ΖΟΥΜΕΡΟ DRAGONFRUIT, ΓΛΥΚΟ ΛΙΤΣΙ ΚΑΙ ΛΑΧΤΑΡΙΣΤΟ ΣΤΑΦΥΛΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "AMBASSADOR FLAVOR PACHAMAMA USA",
    "Description": "ΚΑΡΠΟΥΖΙ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "AMBASSADOR FLAVOR STEAM TRAIN CYPRUS",
    "Description": "ΖΥΜΗ , ΛΕΜΟΝΙ, ΜΑΡΕΓΚΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "AMBASSADOR FLAVOR DON CRISTO CANADA",
    "Description": "ΤΟΥΡΚΙΚΟΣ ΚΑΠΝΟΣ, ΑΡΩΜΑΤΙΚΟ ΜΕΛΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "AMBASSADOR FLAVOR GENESIS LAB GREECE",
    "Description": "ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ, ΚΑΡΑΜΕΛΑ, ΝΟΤΑ ΑΠΟ ΣΙΡΟΠΙ ΣΦΕΝΔΑΜΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "CROWN FLAVOR WILLIAM",
    "Description": "ΚΑΠΝΟΣ, ΞΗΡΟΙ ΚΑΡΠΟΙ, ΜΠΙΣΚΟΤΟ ΒΟΥΤΥΡΟΥ, ΚΡΕΜΑ ΚΑΙ ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml"
  },
  {
    "Name": "CROWN FLAVOR RAGNAR",
    "Description": "ΚΑΠΝΟΣ, ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ, ΚΡΕΜΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "30ml / 60ml"
  },
  {
    "Name": "CROWN FLAVOR ALEXANDER",
    "Description": "ΚΡΕΜΑ CUSTARD, ΚΑΡΑΜΕΛΑ ΓΑΛΑΚΤΟΣ, GRAHAM CRACKER (ΜΠΙΣΚΟΤΟ), ΣΑΝΤΙΓΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "30ml / 120ml"
  },
  {
    "Name": "FIVE PAWNS DISTRICT ONE21 BLACK WATER FLAVOR",
    "Description": "ΚΡΕΜΑ CANNOLI, ΜΑΥΡΟΣ ΚΑΦΕΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS VILLAIN VAPORS CAPONE FLAVOR",
    "Description": "ΒΑΝΙΛΙΑ, ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS PLUM ROOM STRAWBERRIES & CREAM FLAVOR",
    "Description": "ΦΡΑΟΥΛΑ, ΚΡΕΜΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS GRANDMA'S LEMON CAKE FLAVOR",
    "Description": "ΚΕΙΚ (CAKE) ΛΕΜΟΝΙΟΥ, ΖΑΧΑΡΗ ΑΧΝΗ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS VAPE ORENDA GO NUTS FLAVOR",
    "Description": "ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ ΜΕΣΑ ΣΕ ΝΤΟΝΑΤ (DONUT) ΜΕ ΓΛΑΣΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS ORCHARD BLENDS MELON MASH FLAVOR",
    "Description": "ΚΑΡΠΟΥΖΙ, ΠΕΠΟΝΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS ORCHARD BLENDS BERRY LIMEADE FLAVOR",
    "Description": "ΣΜΕΟΥΡΟ, ΜΥΡΤΙΛΟ, ΒΑΤΟΜΟΥΡΟ (ΜΟΥΡΟ), ΛΕΜΟΝΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS ORCHARD BLENDS NANA BERRY FLAVOR",
    "Description": "ΦΡΑΟΥΛΑ, ΜΠΑΝΑΝΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS DISTRICT ONE 21 SALTED CARAMEL FLAVOR",
    "Description": "ΒΟΥΤΥΡΩΜΕΝΗ ΠΡΑΛΙΝΑ, ΚΡΕΜΑ, ΑΛΑΤΙΣΜΕΝΗ ΚΑΡΑΜΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS VILLAIN VAPORS DILLINGER FLAVOR",
    "Description": "ΠΑΓΩΤΟ ΒΑΝΙΛΙΑ, ΚΡΕΜΑ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS PLUME ROOM BANANA PUDDING FLAVOR",
    "Description": "ΜΠΑΝΑΝΑ ΜΕ ΚΡΕΜΑ, ΒΑΝΙΛΙΑ, ΤΡΑΓΑΝΗ ΠΙΤΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS POET SWEET BLACK TEA FLAVOR",
    "Description": "ΜΑΥΡΟ ΤΣΑΙ, ΑΝΑΜΕΙΚΤΑ ΦΡΟΥΤΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS VAPE ORENDA WHIRLING DERVISH FLAVOR",
    "Description": "ΡΟΛΟ ΚΑΝΕΛΑΣ, ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ, ΜΠΑΧΑΡΙΚΑ, ΑΠΑΛΕΣ ΝΟΤΕΣ ΜΕΛΙΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS GAMBIT FLAVOR",
    "Description": "ΠΡΑΣΙΝΟ ΜΗΛΟ, ΚΑΡΑΜΕΛΑ, ΠΑΓΩΤΟ ΒΑΝΙΛΙΑ, ΑΓΛΥΚΗ ΣΑΝΤΙΓΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS CASTLE LONG FLAVOR",
    "Description": "BOURBON (ΜΠΕΡΜΠΟΝ), ΚΑΡΥΔΑ, ΑΜΥΓΔΑΛΟ, ΒΑΝΙΛΙΑ, ΒΑΝΙΛΙΑ ΜΑΔΑΓΑΣΚΑΡΗΣ, ΜΑΥΡΗ ΖΑΧΑΡΗ, ΞΗΡΟΙ ΚΑΡΠΟΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS BLACK FLAG RISEN FLAVOR",
    "Description": "ΚΑΠΟΥΤΣΙΝΟ, ΚΑΠΝΟΣ VIRGINIA (ΒΙΡΤΖΙΝΙΑ)",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "FIVE PAWNS GRANDMASTER FLAVOR",
    "Description": "ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ, ΚΡΕΜΑ, ΜΠΑΝΑΝΑ, ΝΟΤΕΣ ΚΑΡΑΜΕΛΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "HALO TRIBECA GREEN TEA FLAVOR",
    "Description": "TRIBECA ΜΕ ΠΡΑΣΙΝΟ ΤΣΑΙ, ΚΑΠΝΟΣ, ΝΟΤΕΣ ΒΑΝΙΛΙΑΣ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "HALO TRIBECA CHERRY FLAVOR",
    "Description": "TRIBECA ΜΕ ΚΕΡΑΣΙ, ΚΑΡΑΜΕΛΑ, ΒΑΝΙΛΙΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "HALO TURKISH FLAVOR",
    "Description": "ΠΛΟΥΣΙΟΣ ΤΟΥΡΚΙΚΟΣ ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "HALO TRIBECA FLAVOR",
    "Description": "ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ, ΒΑΝΙΛΙΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE FRUIZEE TROPIKANIA",
    "Description": "ΦΡΑΟΥΛΑ, ΜΠΑΝΑΝΑ ΚΑΙ ΜΑΝΤΑΡΙΝΙ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE FRUIZEE PURPLE BEACH",
    "Description": "ΡΟΔΑΚΙΝΟ ΚΑΙ ΣΤΑΦΥΛΙ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE FRUIZEE SUNSET LOVER",
    "Description": "ΚΟΚΚΙΝΑ ΦΡΟΥΤΑ, ΛΕΜΟΝΙ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE FRUIZEE BLOODY SUMMER",
    "Description": "ΚΟΚΚΙΝΑ ΦΡΟΥΤΑ, ΣΤΑΦΥΛΙ ΚΑΙ ΦΡΑΓΚΟΣΤΑΦΥΛΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE FRUIZEE SUMMER TIME",
    "Description": "DRAGON FRUIT, ΓΚΟΥΑΒΑ (GUAVA) ΚΑΙ ΛΕΜΟΝΙ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE APPLE COLA",
    "Description": "COLA (ΚΟΛΑ), ΜΗΛΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE FRUIZEE CRAZY MANGO",
    "Description": "ΓΛΥΚΟ ΜΑΝΓΚΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE FRUIZEE LEMON ORANGE MANDARINE",
    "Description": "ΛΕΜΟΝΙ, ΠΟΡΤΟΚΑΛΙ, ΜΑΝΤΑΡΙΝΙ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE PREMIUM COP JUICE RIGGS",
    "Description": "ΔΗΜΗΤΡΙΑΚΑ, ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ, POP CORN (ΠΟΠ ΚΟΡΝ)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE PREMIUM MAJOR",
    "Description": "ΔΗΜΗΤΡΙΑΚΑ, ΚΑΠΝΟΣ ΒΑΝΙΛΙΑΣ, ΜΠΙΣΚΟΤΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE PREMIUM PLAYER",
    "Description": "ΞΑΝΘΟΣ ΚΑΠΝΟΣ, ΡΟΥΜΙ ΒΑΝΙΛΙΑΣ, ΚΑΡΥΔΙΑ MACADAMIA, ΜΑΥΡΗ ΖΑΧΑΡΗ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE PREMIUM MANGA",
    "Description": "ΚΑΠΝΟΣ ΠΟΥΡΟΥ, ΚΑΡΑΜΕΛΩΜΕΝΟ ΑΧΛΑΔΙ, ΔΟΣΗ ΜΑΝΓΚΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE TOBACCO EAST BLEND",
    "Description": "ΤΟΥΡΚΙΚΟΣ ΚΛΑΣΙΚΟΣ ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE TOBACCO AMERICAN BLEND",
    "Description": "ΞΗΡΟΣ, ΞΑΝΘΟΣ ΚΑΠΝΟΣ, ΝΟΤΕΣ ΑΠΟ ΦΡΟΥΤΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE TOBACCO MLB",
    "Description": "ΞΑΝΘΟΣ ΚΑΠΝΟΣ, ΦΟΥΝΤΟΥΚΙ, ΜΕΛΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE TOBACCO KML",
    "Description": "ΞΑΝΘΟΣ ΚΑΠΝΟΣ KML, ΝΟΤΕΣ ΒΑΝΙΛΙΑΣ, ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE PREMIUM DECANO",
    "Description": "ΚΑΠΝΟΣ ΠΟΥΡΟΥ, ΚΑΡΑΜΕΛΩΜΕΝΟ ΑΧΛΑΔΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE PREMIUM FAMOUS",
    "Description": "ΚΑΠΝΟΣ, ΜΠΙΣΚΟΤΟ, ΒΑΝΙΛΙΑ, ΞΗΡΟΙ ΚΑΡΠΟΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE PREMIUM RELAX",
    "Description": "ΚΑΠΝΟΣ, ΠΙΚΡΟΣ ΚΑΦΕΣ, ΜΠΙΣΚΟΤΟ, ΒΑΝΙΛΙΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "E-LIQUID FRANCE PREMIUM SUPREME",
    "Description": "ΚΑΠΝΟΣ VIRGINIA (ΒΙΡΤΖΙΝΙΑ), ΜΠΙΣΚΟΤΟ, ΒΑΝΙΛΙΑ ΚΑΙ ΚΑΡΥΔΑ ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "DINNER LADY BUBBLE TROUBLE ICE",
-   "Description": "ΤΣΙΧΛΟΦΟΥΣΚΑ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Description": "ΤΣΙΧΛΟΦΟΥΣΚΑ (BUBBLEGUM), ΠΑΓΟΣ",
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "DINNER LADY LEMON SHERBETS",
    "Description": "ΒΡΑΣΤΟ ΓΛΥΚΟ ΛΕΜΟΝΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "DINNER LADY LEMON TART",
    "Description": "ΤΑΡΤΑ, ΚΡΕΜΑ ΓΛΥΚΟΛΕΜΟΝΟΥ, ΜΑΡΕΓΚΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "DINNER LADY BUBBLE TROUBLE",
    "Description": "ΤΣΙΧΛΟΦΟΥΣΚΑ (BUBBLEGUM)",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "AMERICAN STARS FLAVOR RED INDIANA",
    "Description": "ΑΜΕΡΙΚΑΝΙΚΟΣ ΞΗΡΟΣ ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "AMERICAN STARS FLAVOR PEACHS PEACHES",
    "Description": "ΖΟΥΜΕΡΑ ΡΟΔΑΚΙΝΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "AMERICAN STARS FLAVOR NUTTY BUDDY COOKIE",
    "Description": "ΒΟΥΤΥΡΕΝΙΟ ΜΠΙΣΚΟΤΟ, ΒΑΝΙΛΙΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "AMERICAN STARS FLAVOR R2Y2",
    "Description": "ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ, ΒΑΝΙΛΙΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "AMERICAN STARS FLAVOR BLUE MAGIC",
    "Description": "ΒΑΤΟΜΟΥΡΟ (ΜΟΥΡΟ), ΦΡΑΟΥΛΑ, ΔΡΟΣΕΡΗ ΜΕΝΤΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "AMERICAN STARS FLAVOR EASY RIDER",
    "Description": "ΚΑΠΝΟΣ, ΞΗΡΟΙ ΚΑΡΠΟΙ, ΒΑΝΙΛΙΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "IVG FLAVOR SPEARMINT",
    "Description": "ΤΣΙΧΛΟΦΟΥΣΚΑ (BUBBLEGUM) ΜΕ ΔΥΟΣΜΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "IVG FLAVOR STRAWBERRY WATERMELON",
    "Description": "ΦΡΑΟΥΛΑ ΚΑΙ ΚΑΡΠΟΥΖΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "IVG FLAVOR COOKIE DOUGH",
    "Description": "COOKIE DOUGH (ΖΥΜΗ ΜΠΙΣΚΟΤΟΥ), ΒΑΝΙΛΙΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "IVG FLAVOR HONEYDEW LEMONADE",
    "Description": "ΠΕΠΟΝΙ, ΛΕΜΟΝΙ, ΠΑΓOΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "IVG FLAVOR VANILLA SUGAR BISQUIT",
    "Description": "ΜΠΙΣΚΟΤΟ ΒΑΝΙΛΙΑΣ, ΖΑΧΑΡΗ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "IVG FLAVOR GREEN ENERGY",
    "Description": "ΕΝΕΡΓΕΙΑΚΟ ΠΟΤΟ, LIME (ΛΑΙΜ), ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "IVG FLAVOR CARIBBEAN CRUSH",
    "Description": "ΑΝΑΝΑΣ, ΓΚΡΕΙΠΦΡΟΥΤ (GRAPEFRUIT)",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "OMERTA CHRISTMAS COOKIE LIMITED EDITION",
    "Description": "ΜΠΙΣΚΟΤΟ, ΤΖΙΝΤΖΕΡ, ΚΑΝΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO PLATINUM TOBACCO SUPRA RESERVE",
    "Description": "ΞΑΝΘΟΣ ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ, ΒΑΝΙΛΙΑ, ΞΗΡΟΙ ΚΑΡΠΟΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO PLATINUM TOBACCOS COOKIE SUPRA RESERVE",
    "Description": "ΞΑΝΘΟΣ ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ, ΒΑΝΙΛΙΑ, ΞΗΡΟΙ ΚΑΡΠΟΙ, ΜΠΙΣΚΟΤΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO PLATINUM TOBACCOS NUTTY SUPRA RESERVE",
    "Description": "ΞΑΝΘΟΣ ΚΑΠΝΟΣ, ΚΑΡΑΜΕΛΑ, ΒΑΝΙΛΙΑ, ΞΗΡΟΙ ΚΑΡΠΟΙ, ΜΠΙΣΚΟΤΟ, ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO WAILANI JUICE PEACH AND MANGO",
    "Description": "ΡΟΔΑΚΙΝΟ ΚΑΙ ΜΑΝΓΚΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO WAILANI JUICE PINA COLADA",
    "Description": "ΑΝΑΝΑΣ ΜΕ ΚΡΕΜΑ ΚΑΡΥΔΑΣ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO WAILANI JUICE STRAWBERRY PEAR",
    "Description": "ΦΡΑΟΥΛΑ, ΑΧΛΑΔΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO WAILANI JUICE WATERMELON MOJITO",
    "Description": "MOJITO ΚΑΡΠΟΥΖΙ  (ΡΟΥΜΙ, ΚΑΡΠΟΥΖΙ, ΜΕΝΤΑ, ΓΛΥΚΟΛΕΜΟΝΑ, ΚΑΣΤΑΝΗ ΖΑΧΑΡΗ)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO PASTRY MASTERS CLIMAX CREAM",
    "Description": "ΚΡΕΜ ΜΠΡΟΥΛΕ ΣΕ ΖΥΜΗ ΚΡΕΠΑΣ, ΣΟΚΟΛΑΤΑ, ΞΗΡΟΙ ΚΑΡΠΟΙ ΚΑΙ ΚΑΡΑΜΕΛΑ.\n",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "HOLY COW FLAVOR STRAWBERRY",
    "Description": "MILKSHAKE  ΦΡΑΟΥΛΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "HOLY COW FLAVOR SALTED CARAMEL",
    "Description": "ΑΛΑΤΙΣΜΕΝΗ ΚΑΡΑΜΕΛΑ, MILKSHAKE ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "HOLY COW FLAVOR PISTACHIO ALMOND",
    "Description": "ΞΗΡΟΙ ΚΑΡΠΟΙ, ΑΜΥΓΔΑΛΟ, ΦΥΣΤΙΚΙ ΑΙΓΙΝΗΣ, MILKSHAKE ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "HOLY COW FLAVOR PEANUT BUTTER",
    "Description": "ΒΟΥΤΥΡΕΝΙΟ MILKSHAKE , ΦΥΣΤΙΚΟΒΟΥΤΥΡΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "VNV DRAM DELIPEAR",
    "Description": "ΜΠΙΣΚΟΤΑ, ΒΟΥΤΗΓΜΕΝΑ ΣΕ ΜΙΑ ΚΡΕΜΑ ΑΧΛΑΔΙΟΥ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV DRAM CUSTO",
    "Description": "VANILLA CUSTARD (ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ) TOBACCO  (ΚΑΠΝΟΣ) Η ΑΛΛΙΩΣ VCT",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV DRAM ICETOPIA",
    "Description": "ΓΡΑΝΙΤΑ ΜΕ ΡΟΔΑΚΙΝΟ ΚΑΙ ΜΑΝΓΚΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "NIXX BULL DRINK",
    "Description": "ΕΝΕΡΓΕΙΑΚΟ ΠΟΤΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX STRAWBERRY BANANA",
    "Description": "SMOOTHIE ΦΡΑΟΥΛΑ ΜΠΑΝΑΝΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX BERRIES MIX",
    "Description": "ΣΜΕΟΥΡΑ, ΜΥΡΤΙΛΑ, ΒΑΤΟΜΟΥΡΑ ΚΑΙ ΚΟΚΚΙΝΑ ΦΡΑΓΚΟΣΤΑΦΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX TOTAL MINT",
    "Description": "ΜΕΝΤΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX WATERMELON",
    "Description": "ΚΑΡΠΟΥΖΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX STRAWBERRY",
    "Description": "ΖΟΥΜΕΡΕΣ ΦΡΑΟΥΛΕΣ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX MELON MINT",
    "Description": "ΠΕΠΟΝΙ & ΜΕΝΤΑ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX AMERICAN",
    "Description": "ΑΜΕΡΙΚΑΝΙΚΑ ΚΑΠΝΑ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX HAVANA CREAM",
    "Description": "ΠΟΥΡΟ ΠΛΑΙΣΙΩΜΕΝΟ  ΑΠΟ ΕΛΑΦΡΙΑ ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX VIRGINIA",
    "Description": "ΚΛΑΣΣΙΚΟΣ ΚΑΠΝΟΣ VIRGINIA",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX PEANUT TOBACCO",
    "Description": "ΣΥΝΔΥΑΣΜΟΣ ΚΑΠΝΟΥ ΜΕ ΦΙΣΤΙΚΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "NIXX TOBACCO CARAMEL",
    "Description": "KΑΠΝΟΣ ΚΑΙ ΠΛΟΥΣΙΑ ΚΑΡΑΜΕΛΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 60ml"
  },
  {
    "Name": "CINEMA ADVENTURE",
    "Description": "POPCORN, ΜΠΙΣΚΟΤΟ, ΦΥΣΤΙΚΙ ΑΙΓΙΝΗΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "CINEMA MYSTERY",
    "Description": "POPCORN,  ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ (CUSTARD)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "CINEMA ROMANCE",
    "Description": "POPCORN, ΚΡΕΜΑ, ΕΛΑΧΙΣΤΗ ΚΑΝΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE COLA LEMON",
    "Description": "COLA, ΛΕΜΟΝΙ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE ENERGY DRINK",
    "Description": "ΕΝΕΡΓΕΙΑΚΟ ΠΟΤΟ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE ORANGE SODA",
    "Description": "ΠΟΡΤΟΚΑΛΑΔΑ  (ΠΟΡΤΟΚΑΛΙ) ΜΕ ΑΝΘΡΑΚΙΚΟ ΚΑΙ ΠΑΓΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE PINK LEMONADE",
    "Description": "ΦΡΑΟΥΛΑ, ΛΕΜΟΝΑΔΑ  (ΛΕΜΟΝΙ), ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE PINEAPPLE PEACH MANGO",
    "Description": "ΑΝΑΝΑΣ, ΡΟΔΑΚΙΝΟ, ΜΑΝΓΚΟ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE SUPER STRAWBERRY",
    "Description": "ΦΡΑΟΥΛΑ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE TRIPLE MANGO",
    "Description": "ΜΑΝΓΚΟ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE ULTRA BLUE RAZZ",
    "Description": "ΒΑΤΟΜΟΥΡΑ, ΠΑΓΟΣ, ΕΣΠΕΡΙΔΟΕΙΔΗ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE ULTRA MELON",
    "Description": "ΠΕΠΟΝΙ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE WATERMELON MAX",
    "Description": "ΚΑΡΠΟΥΖΙ, ΠΑΓΟΣ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "VIRTUOSO COCO MASTER",
    "Description": "ΚΑΠΝΟΣ, ΒΟΥΤΥΡΕΝΙΟ ΜΠΙΣΚΟΤΟ, ΓΑΛΛΙΚΗ ΚΡΕΜΑ ΒΑΝΙΛΙΑ, ΝΟΤΕΣ ΚΑΡΥΔΑΣ.",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VIRTUOSO HAVANA PRO",
    "Description": "ΣΚΟΥΡΟΣ ΚΑΠΝΟΣ, ΜΠΙΣΚΟΤΟ, ΓΑΛΛΙΚΗ ΚΡΕΜΑ ΒΑΝΙΛΙΑ (CUSTARD), ΝΟΤΕΣ ΦΟΥΝΤΟΥΚΙΟΥ.",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "CHARLIES CHALK DUST FLAVOR DREAM CREAM",
    "Description": "ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ (CUSTARD) ΠΑΣΠΑΛΙΣΜΕΝΗ ΜΕ ΓΛΥΚΙΣΜΑΤΑ ΚΑΙ ΝΟΤΕΣ ΑΠΟ ΚΑΝΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "CHARLIES CHALK DUST FLAVOR CAMPFIRE",
    "Description": "ΖΑΧΑΡΩΤΟ  (MARSHMALLOW) ΒΟΥΤΗΓΜΕΝΟ ΣΕ ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ, ΜΠΙΣΚΟΤΟ, ΝΟΤΕΣ ΚΑΝΕΛΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO DON JUAN SUPRA RESERVE",
    "Description": "KΕΙΚ  (CAKE) ΣΟΚΟΛΑΤΑΣ , ΜΠΙΣΚΟΤΟ, ΒΟΥΤΥΡΟ PECAN, ΚΑΙ ΚΡΕΜΑ, ΓΛΥΚΟΣ ΚΑΠΝΟΣ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "WAVES ENERGY BOOST ",
    "Description": "ΕΝΕΡΓΕΙΑΚΟ ΠΟΤΟ ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES ENERGY MANGO PASSION ",
    "Description": " ΤΡΟΠΙΚΑ ΦΡΟΥΤΑ, MANGO ,PASSION FRUIT ,ΕΝΕΡΓΕΙΑΚΟ ΠΟΤΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES ENERGY PEACH NECTARINE",
    "Description": "ΡΟΔΑΚΙΝΟ, ΝΕΚΤΑΡΙΝΙ , ΕΝΕΡΓΕΙΑΚΟ ΠΟΤΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES ENERGY LEMON LIME ORANGE",
    "Description": " ΛΕΜΟΝΙ, LIME,ΠΟΡΤΟΚΑΛΙ ,ΕΝΕΡΓΕΙΑΚΟ ΠΟΤΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "WAVES ENERGY MIX BERRIES PINEAPPLE",
    "Description": "ΑΝΑΝΑΣ , ΜΟΥΡΑ , ΕΝΕΡΓΕΙΑΚΟ ΠΟΤΟ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml / 120ml"
  },
  {
    "Name": "BOMBO PLATINUM TOBACCOS CULMEN",
    "Description": "ΚΑΠΝΟΣ, ΠΡΑΛΙΝΑ ΚΑΚΑΟ, ΦΟΥΝΤΟΥΚΙ,ΛΕΥΚΗ ΣΟΚΟΛΑΤΑ, ΚΡΕΜΑ ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO TABACO RUBIO ALMENDRADO",
    "Description": "ΚΑΠΝΟΣ, ΑΜΥΓΔΑΛΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO CREMA SANTA REMASTER",
    "Description": "ΠΑΝΤΕΣΠΑΝΙ, ΚΡΕΜΑ ,ΣΟΚΟΛΑΤΑ, ΒΑΝΙΛΙΑ, ΞΗΡΟΥΣ ΚΑΡΠΟΥΣ, ΚΑΡΥΔΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO PASTRY MASTERS MASTER CUSTARD",
    "Description": "ΚΡΕΜΑ,  ΜΠΙΣΚΟΤΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAMPUNK GEAR FLAVOR CANDY GRAPE",
    "Description": "ΣΤΑΦΥΛΙ , ΖΑΧΑΡΩΤΟ (CANDY)",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK GEAR FLAVOR CHERRY LIME",
    "Description": "ΚΕΡΑΣΙ ,ΛΕΜΟΝΙ (LIME) ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK GEAR FLAVOR COLA DRINK",
    "Description": "ΚΟΚΑ ΚΟΛΑ  (COLA) , ΛΕΜΟΝΙ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK GEAR FLAVOR CUBA LIBRE ",
    "Description": "ΛΑΪΜ (LIME) ,ΚΟΚΑ ΚΟΛΑ (COLA), ΡΟΥΜΙ ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK GEAR FLAVOR HAZELNUT COOKIE",
    "Description": "ΜΠΙΣΚΟΤΟ , ΦΟΥΝΤΟΥΚΙ ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK GEAR FLAVOR MULTI MINT",
    "Description": "ΜΕΝΤΑ , ΠΑΓΟΣ (ICE)",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK GEAR FLAVOR STRAWBERRY MILKSHAKE",
    "Description": "ΦΡΑΟΥΛΑ MILKSHAKE  , ΦΡΑΟΥΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK GEAR FLAVOR VAN. CUSTARD",
    "Description": "ΚΑΠΝΟΣ , ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK GEAR FLAVOR WALNUT TOBACCO",
    "Description": "ΚΑΠΝΟΣ , ΚΑΡΥΔΙ ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAMPUNK GEAR FLAVOR BOUGATSA",
    "Description": "ΖΥΜΗ, ΒΟΥΤΥΡΟ,ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ ,ΖΑΧΑΡΗ ΑΧΝΗ ,ΚΑΝΕΛΑ , ",
-   "Category": " ΓΛΥΚΟ"
+   "Category": " ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "DINNER LADY FRUITS FLAVOR KIWI MELON",
    "Description": "ΠΕΠΟΝΙ, ΑΚΤΙΝΙΔΙΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "KINGS CREST DON JUAN RESERVE",
    "Description": "ΖΥΜΗ , ΒΟΥΤΥΡΟ ΠΕΚΑΝ, ΣΟΚΟΛΑΤΑ,ΚΡΑΚΕΡ (GRAHAM CRACKER),ΣΑΝΤΙΓΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "WICK LIQUOR CARNIVAL",
    "Description": "ΓΛΑΣΑΡΙΣΜΕΝΟ ΝΤΟΝΑΤ, ΚΕΪΚ ΒΑΝΙΛΙΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "WICK LIQUOR DEJA VOODOO",
    "Description": "ΚΑΡΥΔΑ, ΖΑΧΑΡΟΚΑΛΑΜΟ ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO X JUICE HEAD STRAWBERRY LEMON LIME",
    "Description": "ΦΡΑΟΥΛΑ,ΛΕΜΟΝΙ,ΛΑΪΜ (LIME)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO X JUICE HEAD WATERMELON COCONUT MANGO",
    "Description": "ΚΑΡΠΟΥΖΙ, ΚΑΡΥΔΑ, ΜΑΝΓΚΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO SOLO JUICE TOBACCO CUBANO ",
    "Description": "ΚΟΥΒΑΝΕΖΙΚΟ ΠΟΥΡΟ",
-   "Category": "ΚΑΠΝΙΚΟ "
+   "Category": "ΚΑΠΝΙΚΟ ",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE COFFEE VANILLA CUSTARD CREAM",
    "Description": "ΚΡΕΜΑ ΒΑΝΙΛΙΑΣ ,ΚΑΦΕΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE PINEAPPLE PEACH",
    "Description": "ΑΝΑΝΑΣ ,ΡΟΔΑΚΙΝΟ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE VANILLA BISCUIT",
    "Description": "ΒΑΝΙΛΙΑ ΜΑΔΑΓΑΣΚΑΡΗΣ, ΜΠΙΣΚΟΤΟ ,ΚΡΕΜΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE LATAKIA TOBACCO ",
    "Description": "ΚΑΠΝΟΣ ,ΞΥΛΟ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE HAZELNUT CHOCO WAFFER",
    "Description": "ΣΟΚΟΛΑΤΑ ΓΑΛΑΚΤΟΣ, ΚΡΕΜΑ BUENO",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE BLUE RAZZ ICE ",
    "Description": "ΒΑΤΟΜΟΥΡΟ , ΠΑΓΟΣ (ICE) ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE BUBBLEGUM ICE",
    "Description": "ΤΣΙΧΛΑ , ΠΑΓΟΣ (ICE)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE COOKIES CHOCOLATE ",
    "Description": "ΜΠΙΣΚΟΤO,  ΣΟΚΟΛΑΤΑ  ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE CREME BRULEE",
    "Description": "ΒΑΝΙΛΙΑ , ΚΑΡΑΜΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE DRAKULIN ICE CREAM",
    "Description": "ΚΟΛΑ (COLA) , ΦΡΑΟΥΛΑ,ΒΑΝΙΛΙΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "S-ELF JUICE FLAVOR BANOFEE PIE",
    "Description": "ΜΠΑΝΑΝΑ , ΚΡΕΜΑ ,ΚΑΡΑΜΕΛΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "S-ELF JUICE FLAVOR PEACH ICE ",
    "Description": "ΡΟΔΑΚΙΝΟ ,ΠΑΓΟΣ (ICE) ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "S-ELF JUICE BLUE RAZZ LEMONADE",
    "Description": "ΤΑΡΤΑ , ΣΜΕΟΥΡΑ , ΛΕΜΟΝΑΔΑ ,ΠΑΓΟΣ (ICE)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "60ml"
  },
  {
    "Name": "S-ELF JUICE FLAVOR CHOCOLATE TOBACCO",
    "Description": "ΚΑΠΝΟΣ , ΜΑΥΡΗ ΣΟΚΟΛΑΤΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "S-ELF JUICE FLAVOR SWEET STRAWBERRY",
    "Description": "ΜΑΡΜΕΛΑΔΑ  ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "AMERICAN STARS FLAVOR HONEY HORNET",
    "Description": "ΞΗΡΟΙ ΚΑΡΠΟΙ, ΓΑΛΑ, ΜΠΑΝΑΝΑ,ΔΗΜΗΤΡΙΑΚΑ, ΜΕΛΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "HOLY COW FLAVOR BANANA MILKSHAKE ",
    "Description": "MILKSHAKE, ΓΑΛΑ, ΣΙΡΟΠΙ ΜΠΑΝΑΝΑΣ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "VNV SNOW CONE ICY VEIL",
    "Description": "ΣΠΙΤΙΚΗ ΛΕΜΟΝΑΔΑ, BERRIES",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "VNV SNOW CONE ARCTIC COAST",
    "Description": "ΚΑΡΠΟΥΖΙ, ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO BAR JUICE BANANA MAX",
    "Description": " ΜΠΑΝΑΝΑ , ΠΑΓΟΣ  (ICE)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE TRIPLE CHERRY",
    "Description": "ΚΕΡΑΣΙ , ΠΑΓΟΣ (ICE)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO BAR JUICE LEMON LIME SODA",
    "Description": "ΛΑΪΜ, ΛΕΜΟΝΙ ΠΑΓΟΣ (ICE) ",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "BOMBO ALDONZA REMASTER",
    "Description": "ΒΑΝΙΛΙΑ,  ΦΥΛΛΑ ΚΑΠΝΟΥ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "AMERICAN STARS FLAVOR FRUITY GUM",
    "Description": "ΤΣΙΧΛΟΦΟΥΣΚΑ, ΑΚΤΙΝΙΔΙΟ , ΦΡΑΟΥΛΑ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "BOMBO SOLO JUICE CARAMEL CHOCO NUTS",
    "Description": "ΚΑΡΑΜΕΛΑ, ΣΟΚΟΛΑΤΑ , ΞΗΡΟΥΣ ΚΑΡΠΟΥΣ.",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR TRAIN IN VAIN",
    "Description": "ΚΑΠΝΟΣ , ΚΡΕΜΑ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR BLACK BETTY",
    "Description": "ΚΑΠΝΟΣ , ΚΑΡΑΜΕΛΑ ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR CRAZY TRAIN",
    "Description": "ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ "
+   "Category": "ΚΑΠΝΙΚΟ ",
+   "Quantity": "60ml"
  },
  {
    "Name": "PGVG LABS DON CRISTO BCT ",
    "Description": " ΜΠΑΝΑΝΑ, ΣΟΚΟΛΑΤΑ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "DON CRISTO BLOND",
    "Description": "ΚΑΠΝΟΣ , ΜΕΛΙ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "PGVG LABS DON CRISTO DOUBLE APPLE",
    "Description": "ΠΡΑΣΙΝΑ ΜΗΛΟ , ΚΟΚΚΙΝΟ ΜΗΛΟ ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "60ml"
  },
  {
    "Name": "YETI DEFROSTED FLAVOR BLUEBERRY PEACH",
    "Description": "ΒΑΤΟΜΟΥΡO , ΡΟΔΑΚΙΝO ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "YETI DEFROSTED FLAVOR ORANGE MANGO",
    "Description": "ΠΟΡΤΟΚΑΛΙ , ΜΑΝΓΚΟ",
-   "Category": "ΦΡΟΥΤΟ"
+   "Category": "ΦΡΟΥΤΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "YETI FLAVOR STRAWBERRY CHERRY RASPBERRY",
    "Description": "ΦΡΑΟΥΛΑ , ΚΕΡΑΣΙ , ΣΜΕΟΥΡΑ (RASBERRY) , ΠΑΓΟΣ (ICE)",
-   "Category": "ΦΡΟΥΤΟ ICE"
+   "Category": "ΦΡΟΥΤΟ ICE",
+   "Quantity": "120ml"
  },
  {
    "Name": "STEAM TRAIN FLAVOR TIMELESS GEM",
    "Description": "ΜΠΙΣΚΟΤΟ ΖΑΧΑΡΗΣ , ΛΕΜΟΝΙ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΓΛΥΚΟ",
+   "Quantity": "120ml"
  },
  {
    "Name": "OMERTA TERRA AMETHYST",
    "Description": "ΚΛΑΣΙΚΟΣ ΞΑΝΘΟΣ ΚΑΠΝΟΣ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 30ml / 60ml"
  },
  {
    "Name": "OMERTA TERRA DIAMOND",
    "Description": "ΦΥΛΛΑ ΠΟΥΡΟΥ , ΝΟΤΕΣ ΚΕΡΑΣΙΟΥ",
-   "Category": "ΗΜΙΚΑΠΝΙΚΟ"
+   "Category": "ΗΜΙΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 30ml / 60ml"
  },
  {
    "Name": "OMERTA TERRA EMERALD",
    "Description": "ΤΟΥΡΚΙΚΟ ΧΑΡΜΑΝΙ ΚΑΠΝΟΥ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 30ml / 60ml"
  },
  {
    "Name": "OMERTA TERRA RUBY",
    "Description": "ΞΗΡΟΙ  ΚΑΠΝΟΙ ",
-   "Category": "ΚΑΠΝΙΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 30ml / 60ml"
  },
  {
    "Name": "OMERTA TERRA SAPPHIRE ",
    "Description": "ΚΛΑΣΙΚΟΣ ΚΑΠΝΟΣ , ΠΑΡΑΔΟΣΙΑΚΟ ΤΣΙΓΑΡΟ",
-   "Category": "ΚΑΠΝΙΚΟ"
- },
- {
-   "Name": "OPMH FLAVOR PRIMITIVE VESTIGE",
-   "Description": "ΚΡΕΜΑ ΛΕΜΟΝΙ , ΛΑΧΤΑΡΙΣΤΟ ΝΤΟΝΑΤ, ΠΑΣΠΑΛΙΣΜΕΝΟ ΜΕ ΖΑΧΑΡΗ",
-   "Category": "ΓΛΥΚΟ"
+   "Category": "ΚΑΠΝΙΚΟ",
+   "Quantity": "10ml / 30ml / 60ml"
  }
 ]
