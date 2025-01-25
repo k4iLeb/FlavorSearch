@@ -27,6 +27,14 @@ searchBtn.addEventListener("click", () => {
   search();
 });
 
+searchBtn.addEventListener("mousedown", () => {
+  searchBtn.style.boxShadow = "inset 0px 0px 5px rgb(53, 52, 52)";
+});
+
+document.addEventListener("mouseup", () => {
+  searchBtn.style.boxShadow = "none";
+});
+
 input.addEventListener("keydown", (e) => {
   if (e.key == "Enter") {
     search();

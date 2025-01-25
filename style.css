@@ -76,12 +76,33 @@ h1 {
   width: 70%;
 }
 
-.input {
+.input-div {
   width: 75%;
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.input {
+  width: 100%;
   padding: 10px;
   font-size: 1.2rem;
-  border-radius: 10px;
+  background: 0;
   border: 0;
+}
+
+.input:focus-visible {
+  outline: 0;
+}
+
+.search-icon {
+  display: inline-block;
+  border-radius: 10px 0 0 10px;
+  position: relative;
+  background: 0;
+  top: 3px;
 }
 
 .btn {
@@ -94,7 +115,7 @@ h1 {
 }
 
 .btn:hover {
-  /* background-color: #9d68c890; */
+  background-color: #9d68c890;
   cursor: pointer;
 }
 
