@@ -119,10 +119,6 @@ h1 {
   cursor: pointer;
 }
 
-.btn:active {
-  box-shadow: inset 0px 0px 5px rgb(53, 52, 52);
-}
-
 .prioContainer {
   width: 70%;
   margin-top: 10px;
@@ -144,17 +140,14 @@ h1 {
 }
 
 #prio1 {
-  /* background-color: #a1dded90; */
   background-color: var(--bg-blue);
 }
 
 #prio2 {
-  /* background-color: rgba(138, 195, 104, 0.6); */
   background-color: var(--bg-green);
 }
 
 #prio3 {
-  /* background-color: rgb(212 217 219 / 80%); */
   background-color: var(--bg-grey);
 }
 
