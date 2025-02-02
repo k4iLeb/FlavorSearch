@@ -20,11 +20,20 @@ const searchBtn = document.querySelector(".btn");
 const container = document.querySelector(".container");
 const resultsDiv = document.querySelector(".results");
 const list = document.querySelector(".list");
+const clearBtn = document.querySelector(".clear-btn");
 
 // **** LISTENERS ****
 
 searchBtn.addEventListener("click", () => {
   search();
+});
+
+input.addEventListener("input", (e) => {
+  if (input.value == "") {
+    clearBtn.style.visibility = "hidden";
+  } else {
+    clearBtn.style.visibility = "visible";
+  }
 });
 
 searchBtn.addEventListener("mousedown", () => {
@@ -46,6 +55,13 @@ input.addEventListener("keyup", (e) => {
   if (e.key == "Enter") {
     searchBtn.style.boxShadow = "none";
   }
+});
+
+// CLEAR BUTTON
+clearBtn.addEventListener("click", (e) => {
+  input.value = "";
+  clearBtn.style.visibility = "hidden";
+  input.focus();
 });
 
 // **** FUNCTIONS ****
